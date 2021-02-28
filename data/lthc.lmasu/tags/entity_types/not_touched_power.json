@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "values": [
+        "ender_dragon",
+        "wither",
+        "villager",
+        "elder_guardian",
+        "wolf",
+        "horse",
+        "armor_stand",
+        "area_effect_cloud",
+        "item",
+        "item_frame",
+        "lightning_bolt",
+        "painting",
+        "arrow",
+        "spectral_arrow"
+    ]
+}
