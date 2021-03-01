@@ -7,13 +7,13 @@ scoreboard players set @s lmasup__d_upg 0
 scoreboard players set @s lmasup___r_ev 0
 
 #Basics of potions
-execute at @s if entity @e[type=item,nbt={Item:{id:"minecraft:sugar",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup_speed 1
-execute at @s if entity @e[type=item,nbt={Item:{id:"minecraft:scute",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup_tank 1
-execute at @s if entity @e[type=item,nbt={Item:{id:"minecraft:hay_block",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup_feed 1
-execute at @s if entity @e[type=item,nbt={Item:{id:"minecraft:glowstone_dust",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup__s_upg 1
-execute at @s if entity @e[type=item,nbt={Item:{id:"minecraft:glowstone_dust",Count:5b}},distance=0..2.5] run scoreboard players set @s lmasup__s_upg 2
-execute at @s if entity @e[type=item,nbt={Item:{id:"minecraft:redstone",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup__d_upg 1
-execute at @s if entity @e[type=item,nbt={Item:{id:"minecraft:redstone",Count:5b}},distance=0..2.5] run scoreboard players set @s lmasup__d_upg 2
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:sugar",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup_speed 1
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:scute",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup_tank 1
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:hay_block",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup_feed 1
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:glowstone_dust",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup__s_upg 1
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:glowstone_dust",Count:5b}},distance=0..2.5] run scoreboard players set @s lmasup__s_upg 2
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:redstone",Count:1b}},distance=0..2.5] run scoreboard players set @s lmasup__d_upg 1
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:redstone",Count:5b}},distance=0..2.5] run scoreboard players set @s lmasup__d_upg 2
 
 #Evaluation of result
 #->speed

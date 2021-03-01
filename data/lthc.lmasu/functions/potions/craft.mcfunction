@@ -1,10 +1,10 @@
 #Kill Ingredients
-execute at @s run kill @e[type=item,nbt={Item:{id:"minecraft:sugar",Count:1b}},distance=0..2.5,limit=1]
-execute at @s run kill @e[type=item,nbt={Item:{id:"minecraft:scute",Count:1b}},distance=0..2.5,limit=1]
-execute at @s run kill @e[type=item,nbt={Item:{id:"minecraft:hay_block",Count:1b}},distance=0..2.5,limit=1]
-execute at @s run kill @e[type=item,nbt={Item:{id:"minecraft:glowstone_dust"}},distance=0..2.5,limit=5]
-execute at @s run kill @e[type=item,nbt={Item:{id:"minecraft:redstone"}},distance=0..2.5,limit=5]
-execute at @s run kill @e[type=item,nbt={Item:{id:"minecraft:gold_ingot"}},distance=0..2.5,limit=5]
+kill @e[type=item,nbt={Item:{id:"minecraft:sugar",Count:1b}},distance=0..2.5,limit=1]
+kill @e[type=item,nbt={Item:{id:"minecraft:scute",Count:1b}},distance=0..2.5,limit=1]
+kill @e[type=item,nbt={Item:{id:"minecraft:hay_block",Count:1b}},distance=0..2.5,limit=1]
+kill @e[type=item,nbt={Item:{id:"minecraft:glowstone_dust"}},distance=0..2.5,limit=5]
+kill @e[type=item,nbt={Item:{id:"minecraft:redstone"}},distance=0..2.5,limit=5]
+kill @e[type=item,nbt={Item:{id:"minecraft:gold_ingot"}},distance=0..2.5,limit=5]
 
 #Potions
 #->speed
