@@ -1,2 +1,2 @@
-execute as @e[tag=lmasu_damar] unless score @s lmasu_damars matches ..0 run function lthc.lmasu:spells/actions/damar_time
-execute as @e[tag=lmasu_damar] if score @s lmasu_damars matches ..0 run function lthc.lmasu:spells/actions/damar_clear
+execute as @e[tag=lmasu_damar,scores={lmasu_damars=1..}] at @s run function lthc.lmasu:spells/actions/damar_time
+execute as @e[tag=lmasu_damar,scores={lmasu_damars=..0}] run function lthc.lmasu:spells/actions/damar_clear
