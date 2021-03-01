@@ -1,0 +1,3 @@
+execute at @s run data modify block ~ ~-1 ~ Items set value [{id:"",Slot:0b,Count:0b},{id:"",Slot:1b,Count:0b},{id:"",Slot:2b,Count:0b},{id:"",Slot:3b,Count:0b},{id:"minecraft:book",Slot:4b,Count:1b,tag:{kmtlm:true,display:{Name:'{"text":"[Book] kaometicolinuriam","color":"#FFFF00"}',Lore:['{"text":"Mana Cost: 20 000 mana","color":"white"}','{"text":"Min Magic level required: 7","color":"red"}','{"text":"Required mana level: 4"}']},CustomModelData:2101}},{id:"",Slot:5b,Count:0b},{id:"",Slot:6b,Count:0b},{id:"",Slot:7b,Count:0b},{id:"",Slot:8b,Count:0b}]
+playsound ui.button.click master @s ~ ~ ~ 1.0 1.0 1.0
+playsound item.armor.equip_diamond master @s ~ ~ ~ 1.0 1.0 1.0

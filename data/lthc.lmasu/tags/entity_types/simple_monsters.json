@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "zombie",
+        "zombie_villager",
+        "skeleton",
+        "creeper",
+        "spider"
+    ]
+}

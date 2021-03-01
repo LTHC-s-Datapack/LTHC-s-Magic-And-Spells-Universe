@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:enchanted_book"
+        },
+        "title": "Magic world",
+        "description": "use /trigger lmasu_books for claim guide books",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true,
+        "frame": "task",
+        "background": "minecraft:textures/colormap/foliage.png"
+    },
+    "criteria": {
+        "a":{
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {}
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:leather_boots"
+        },
+        "title": "Traveller",
+        "description": "use 100 times the spell Travel",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "frame": "challenge"
+    },
+    "criteria": {
+        "a":{
+            "trigger": "minecraft:impossible",
+            "conditions": {}
+        }
+    },
+    "parent": "lthc.lmasu:root"
+}

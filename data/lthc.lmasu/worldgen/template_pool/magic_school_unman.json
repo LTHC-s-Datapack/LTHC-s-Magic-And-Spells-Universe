@@ -1,0 +1,15 @@
+{
+  "name": "lthc.lmasu:magic_school_unman",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "lthc.lmasu:magic_school_universal_mana",
+        "processors": "lthc.lmasu:magic_school_unman",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
