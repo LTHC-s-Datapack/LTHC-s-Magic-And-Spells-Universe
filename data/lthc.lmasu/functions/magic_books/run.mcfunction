@@ -1,4 +1,4 @@
-execute as @a if score @s lmasu_mglvl matches 7.. if score @s lmasu_clds matches ..0 if score @s lmasu_mana matches 20000.. if score @s lmasu_snktime matches 40.. if data entity @s SelectedItem{id:"minecraft:book",tag:{kmtlm:true}} run function lthc.lmasu:magic_books/kaometicolinuriam
-execute as @a if score @s lmasu_clds matches ..0 if score @s lmasu_snktime matches 40.. if data entity @s SelectedItem{id:"minecraft:book",tag:{unman:true}} run function lthc.lmasu:magic_books/unman
-execute as @a if score @s lmasu_clds matches ..0 if score @s lmasu_snktime matches 40.. if data entity @s SelectedItem{id:"minecraft:book",tag:{skgft:true}} run function lthc.lmasu:magic_books/skgft
-execute as @a if score @s lmasu_cldes matches ..0 if score @s lmasu_snktime matches 40.. if data entity @s SelectedItem{id:"minecraft:book",tag:{enwrp:true}} run function lthc.lmasu:magic_books/enwrp
+execute as @a[scores={lmasu_mglvl=7..,lmasu_clds=..0,lmasu_mana=20000..,lmasu_snktime=40..}] if data entity @s SelectedItem{id:"minecraft:book",tag:{kmtlm:true}} run function lthc.lmasu:magic_books/kaometicolinuriam
+execute as @a[scores={lmasu_clds=..0,lmasu_snktime=40..}] if data entity @s SelectedItem{id:"minecraft:book",tag:{unman:true}} run function lthc.lmasu:magic_books/unman
+execute as @a[scores={lmasu_clds=..0,lmasu_snktime=40..}] if data entity @s SelectedItem{id:"minecraft:book",tag:{skgft:true}} run function lthc.lmasu:magic_books/skgft
+execute as @a[scores={lmasu_clds=..0,lmasu_snktime=40..}] if data entity @s SelectedItem{id:"minecraft:book",tag:{enwrp:true}} run function lthc.lmasu:magic_books/enwrp
