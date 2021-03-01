@@ -3,3 +3,4 @@ playsound minecraft:block.anvil.place master @s ~ ~ ~ 1.0 1.1 1.0
 playsound minecraft:block.honey_block.slide master @s ~ ~ ~ 1.0 0.91 1.0
 playsound minecraft:block.note_block.bell master @s ~ ~ ~ 1.0 0.87 1.0
 playsound minecraft:block.bamboo.break master @s ~ ~ ~ 1.0 1.0 1.0
+data remove storage lthc.lmasu:spells_craft Items
