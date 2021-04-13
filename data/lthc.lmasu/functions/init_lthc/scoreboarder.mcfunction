@@ -58,3 +58,6 @@ scoreboard objectives add lmasup__d_upg dummy
 scoreboard objectives add lmasup___r_ev dummy
 #->Random potions
 scoreboard objectives add lmasup_rand dummy
+
+#Events Timer
+scoreboard objectives add lmasu_ev_ga dummy

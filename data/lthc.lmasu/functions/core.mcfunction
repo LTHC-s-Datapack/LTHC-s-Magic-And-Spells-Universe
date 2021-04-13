@@ -21,3 +21,6 @@ function lthc.lmasu:main/clearer
 
 #Advancements
 function lthc.lmasu:adv/adv_main
+
+#Events
+function lthc.lmasu:events/run
