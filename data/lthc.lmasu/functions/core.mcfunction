@@ -24,3 +24,6 @@ function lthc.lmasu:adv/adv_main
 
 #Events
 function lthc.lmasu:events/run
+
+#Checking
+function lthc.lmasu:main/checker
