@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "grass_block",
+        "dirt",
+        "coarse_dirt",
+        "stone",
+        "diorite",
+        "andesite",
+        "granite",
+        "sand",
+        "red_sand",
+        "sandstone",
+        "red_sandstone",
+        "gravel"
+    ]
+}
