@@ -1,0 +1,64 @@
+{
+    "criteria": {
+      "craft": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "offsetZ": -2,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "offsetZ": 2,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetX": -2,
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetX": 2,
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:dropper",
+                  "nbt": "{Items:[{id:\"minecraft:snowball\",Count:8b},{id:\"minecraft:smooth_stone\",Count:32b}]}"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "lthc.lmasu:craft/component/compounds/frozen_earth"
+    }
+  }
