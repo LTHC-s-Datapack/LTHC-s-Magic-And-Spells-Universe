@@ -61,6 +61,7 @@ scoreboard objectives add lmasup_rand dummy
 
 #Events Timer
 scoreboard objectives add lmasu_ev_ga dummy
+scoreboard objectives add lmasu_ev_zmiv dummy
 
 #Admin Tools
 scoreboard objectives add lmasu_ad_ev_ga trigger
