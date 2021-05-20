@@ -66,3 +66,6 @@ scoreboard objectives add lmasu_ev_zmiv dummy
 #Admin Tools
 scoreboard objectives add lmasu_ad_ev_ga trigger
 scoreboard objectives add lmasu_rt_ev_ga dummy
+
+#Overworldian power
+scoreboard objectives add lmasu_ovb_tm dummy

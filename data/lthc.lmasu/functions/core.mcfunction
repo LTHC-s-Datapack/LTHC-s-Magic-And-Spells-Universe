@@ -27,3 +27,6 @@ function lthc.lmasu:events/run
 
 #Checking
 function lthc.lmasu:main/checker
+
+#Overworldian
+function lthc.lmasu:bosses/core_ovb
