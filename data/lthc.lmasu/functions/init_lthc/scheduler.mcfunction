@@ -28,3 +28,6 @@ schedule function lthc.lmasu:init_lthc/message 3s replace
 
 #Fk player init
 schedule function lthc.lmasu:init_lthc/fk_player_init 4s replace
+
+#Boss summon controller
+schedule function lthc.lmasu:bosses/summon_overworldian 1t replace
