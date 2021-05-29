@@ -31,3 +31,6 @@ schedule function lthc.lmasu:init_lthc/fk_player_init 4s replace
 
 #Boss summon controller
 schedule function lthc.lmasu:bosses/summon_overworldian 1t replace
+
+#Player Info Effect
+schedule function lthc.lmasu:main/player_info_effect 30t replace
