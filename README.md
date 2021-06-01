@@ -1,0 +1,2 @@
+# LTHC-s-Magic-And-Spells-Universe
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0767230036c74f6e9fbf9c9a1ac19bdb)](https://app.codacy.com/gh/LTHCTheMaster/LTHC-s-Magic-And-Spells-Universe?utm_source=github.com&utm_medium=referral&utm_content=LTHCTheMaster/LTHC-s-Magic-And-Spells-Universe&utm_campaign=Badge_Grade_Settings)
