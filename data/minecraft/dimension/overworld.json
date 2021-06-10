@@ -290,30 +290,20 @@
 			  "temperature": -0.5,
 			  "humidity": 0.3,
 			  "altitude": 0.5,
-			  "weirdness": 0.11,
-			  "offset": 0.0
+			  "weirdness": 0.089,
+			  "offset": 0.103
 			},
-			"biome": "lthc.lmasu:giga_pines_biome"
-		  },
-		  {
-			"parameters": {
-			  "temperature": -0.4,
-			  "humidity": 0.25,
-			  "altitude": 0.7,
-			  "weirdness": 0.1,
-			  "offset": 0.0
-			},
-			"biome": "lthc.lmasu:giga_pines_biome"
+			"biome": "minecraft:giant_spruce_taiga_hills"
 		  },
 		  {
 			"parameters": {
 			  "temperature": -0.5,
 			  "humidity": 0.3,
-			  "altitude": 0.5,
+			  "altitude": 0.5002,
 			  "weirdness": 0.089,
 			  "offset": 0.103
 			},
-			"biome": "minecraft:giant_spruce_taiga_hills"
+			"biome": "lthc.lmasu:giga_pines_biome"
 		  },
 		  {
 			"parameters": {
@@ -382,11 +372,31 @@
 			"parameters": {
 			  "temperature": -0.3,
 			  "humidity": -0.3,
+			  "altitude": 0.4999,
+			  "weirdness": 0.111,
+			  "offset": 0.03
+			},
+			"biome": "lthc.lmasu:giga_pines_biome"
+		  },
+		  {
+			"parameters": {
+			  "temperature": -0.3,
+			  "humidity": -0.3,
 			  "altitude": 0.5,
 			  "weirdness": 0.11,
 			  "offset": 0.0
 			},
 			"biome": "minecraft:mountains"
+		  },
+		  {
+			"parameters": {
+			  "temperature": -0.3,
+			  "humidity": -0.3,
+			  "altitude": 0.47591,
+			  "weirdness": 0.11,
+			  "offset": 0.0
+			},
+			"biome": "minecraft:mountain_edge"
 		  },
 		  {
 			"parameters": {
@@ -470,36 +480,6 @@
 			"biome": "minecraft:plains"
 		  },
 
-		  {
-			"parameters": {
-			  "temperature": 0.09,
-			  "humidity": 0.3,
-			  "altitude": 0.499,
-			  "weirdness": 0.09,
-			  "offset": 0.0
-			},
-			"biome": "lthc.lmasu:colored_lands"
-		  },
-		  {
-			"parameters": {
-				"temperature": 0.1,
-				"humidity": 0.11,
-				"altitude": 0.5,
-				"weirdness": 0.11,
-				"offset": 0.0
-			},
-			"biome": "lthc.lmasu:colored_lands"
-		  },
-		  {
-			"parameters": {
-				"temperature": 0.1,
-				"humidity": 0.299,
-				"altitude": 0.51,
-				"weirdness": 0.074,
-				"offset": 0.04
-			},
-			"biome": "lthc.lmasu:colored_lands"
-		  },
 
 		  {
 			"parameters": {
@@ -956,6 +936,16 @@
 			},
 			"biome": "minecraft:jungle_hills"
 		  },
+		  {
+			"parameters": {
+			  "temperature": -0.1,
+			  "humidity": 0.0,
+			  "altitude": 0.6001,
+			  "weirdness": 0.079,
+			  "offset": 0.4205
+			},
+			"biome": "lthc.lmasu:more_carved_jungle"
+		  },
 		  
 		  {
 			"parameters": {
@@ -969,21 +959,11 @@
 		  },
 		  {
 			"parameters": {
-			  "temperature": -0.12,
-			  "humidity": 0.0,
-			  "altitude": 0.62,
-			  "weirdness": 0.082,
-			  "offset": 0.42
-			},
-			"biome": "lthc.lmasu:more_carved_jungle"
-		  },
-		  {
-			"parameters": {
 			  "temperature": -0.1,
-			  "humidity": 0.1,
-			  "altitude": 0.55,
-			  "weirdness": 0.063,
-			  "offset": 0.4
+			  "humidity": 0.0,
+			  "altitude": 0.6001,
+			  "weirdness": 0.08,
+			  "offset": 0.42
 			},
 			"biome": "lthc.lmasu:more_carved_jungle"
 		  },
@@ -1321,17 +1301,6 @@
 			},
 			"biome": "minecraft:plains"
 		  },
-
-		  {
-			"parameters": {
-			  "temperature": 0.0,
-			  "humidity": 0.0,
-			  "altitude": -0.6,
-			  "weirdness": 0.06,
-			  "offset": 0.11
-			},
-			"biome": "lthc.lmasu:colored_lands"
-		  },
   
 		  {
 			"parameters": {
@@ -1363,6 +1332,26 @@
 			  "offset": 0.78
 			},
 			"biome": "minecraft:mushroom_fields"
+		  },
+		  {
+			"parameters": {
+			  "temperature": -0.3,
+			  "humidity": 0.3,
+			  "altitude": -1.25001,
+			  "weirdness": 0.05,
+			  "offset": 0.78
+			},
+			"biome": "lthc.lmasu:colored_lands"
+		  },
+		  {
+			"parameters": {
+			  "temperature": -0.3,
+			  "humidity": 0.3,
+			  "altitude": -1.25001,
+			  "weirdness": 0.1,
+			  "offset": 0.78
+			},
+			"biome": "lthc.lmasu:colored_lands"
 		  },
 		  {
 			"parameters": {
@@ -1479,6 +1468,16 @@
 			"parameters": {
 			  "temperature": 0.0,
 			  "humidity": 0.0,
+			  "altitude": -0.4999,
+			  "weirdness": 0.0,
+			  "offset": 0.0
+			},
+			"biome": "lthc.lmasu:forestian"
+		  },
+		  {
+			"parameters": {
+			  "temperature": 0.0,
+			  "humidity": 0.0,
 			  "altitude": -1.0,
 			  "weirdness": 0.0,
 			  "offset": 0.0
@@ -1499,6 +1498,16 @@
 			"parameters": {
 			  "temperature": 0.3,
 			  "humidity": 0.3,
+			  "altitude": -0.6508,
+			  "weirdness": 0.1,
+			  "offset": 0.0
+			},
+			"biome": "lthc.lmasu:warmy_ocean"
+		  },
+		  {
+			"parameters": {
+			  "temperature": 0.3,
+			  "humidity": 0.3,
 			  "altitude": -1.0,
 			  "weirdness": 0.1,
 			  "offset": 0.0
@@ -1514,6 +1523,16 @@
 			  "offset": 0.0
 			},
 			"biome": "minecraft:warm_ocean"
+		  },
+		  {
+			"parameters": {
+			  "temperature": 0.5,
+			  "humidity": 0.5,
+			  "altitude": -1.0,
+			  "weirdness": 0.0,
+			  "offset": 0.0
+			},
+			"biome": "minecraft:deep_warm_ocean"
 		  },
         {
           "parameters": {
