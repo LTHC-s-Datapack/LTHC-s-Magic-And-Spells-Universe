@@ -1,5 +1,5 @@
 {
-  "scale": 0.05,
+  "scale": 0.5,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -7,7 +7,7 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 7907327,
+    "sky_color": 8233727,
     "fog_color": 12638463,
     "water_color": 4159204,
     "water_fog_color": 329011
@@ -57,43 +57,34 @@
       "minecraft:prototype_underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_gravel",
+      "minecraft:prototype_ore_emerald"
     ],
     [
       "minecraft:rare_dripstone_cluster",
-      "minecraft:rare_small_dripstone"
+      "minecraft:rare_small_dripstone",
+      "minecraft:prototype_ore_infested"
     ],
     [
-      "minecraft:patch_tall_grass_2",
       "minecraft:prototype_glow_lichen",
-      "minecraft:plain_vegetation",
-      "minecraft:flower_plain_decorated",
-      "minecraft:patch_grass_plain",
+      "minecraft:trees_mountain_edge",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:prototype_spring_water",
-      "minecraft:spring_lava",
-      "minecraft:lush_caves_ceiling_vegetation",
-      "minecraft:cave_vines",
-      "minecraft:lush_caves_clay",
-      "minecraft:lush_caves_vegetation",
-      "minecraft:rooted_azalea_trees",
-      "minecraft:spore_blossom",
-      "minecraft:classic_vines_cave_feature"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
   "starts": [
-    "minecraft:village_plains",
-    "minecraft:pillager_outpost",
     "minecraft:mineshaft",
     "minecraft:stronghold",
-    "minecraft:ruined_portal",
-    "lthc.lmasu:magic_school_unman"
+    "minecraft:ruined_portal_mountain"
   ],
   "spawners": {
     "monster": [
@@ -172,16 +163,16 @@
         "maxCount": 4
       },
       {
-        "type": "minecraft:horse",
+        "type": "minecraft:llama",
         "weight": 5,
-        "minCount": 2,
+        "minCount": 4,
         "maxCount": 6
       },
       {
-        "type": "minecraft:donkey",
-        "weight": 1,
-        "minCount": 1,
-        "maxCount": 3
+        "type": "minecraft:goat",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 6
       }
     ],
     "ambient": [
@@ -211,10 +202,10 @@
     "misc": []
   },
   "spawn_costs": {},
-  "player_spawn_friendly": true,
+  "player_spawn_friendly": false,
   "precipitation": "rain",
-  "temperature": 0.8,
-  "downfall": 0.4,
-  "category": "plains",
-  "depth": 0.125
+  "temperature": 0.2,
+  "downfall": 0.3,
+  "category": "extreme_hills",
+  "depth": 1.0
 }

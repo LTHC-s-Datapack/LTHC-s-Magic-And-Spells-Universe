@@ -65,35 +65,26 @@
     ],
     [
       "minecraft:patch_tall_grass_2",
+      "minecraft:patch_sunflower",
       "minecraft:prototype_glow_lichen",
       "minecraft:plain_vegetation",
       "minecraft:flower_plain_decorated",
       "minecraft:patch_grass_plain",
+      "minecraft:patch_sugar_cane",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:prototype_spring_water",
-      "minecraft:spring_lava",
-      "minecraft:lush_caves_ceiling_vegetation",
-      "minecraft:cave_vines",
-      "minecraft:lush_caves_clay",
-      "minecraft:lush_caves_vegetation",
-      "minecraft:rooted_azalea_trees",
-      "minecraft:spore_blossom",
-      "minecraft:classic_vines_cave_feature"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
   "starts": [
-    "minecraft:village_plains",
-    "minecraft:pillager_outpost",
     "minecraft:mineshaft",
     "minecraft:stronghold",
-    "minecraft:ruined_portal",
-    "lthc.lmasu:magic_school_unman"
+    "minecraft:ruined_portal"
   ],
   "spawners": {
     "monster": [
@@ -211,7 +202,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "player_spawn_friendly": true,
+  "player_spawn_friendly": false,
   "precipitation": "rain",
   "temperature": 0.8,
   "downfall": 0.4,

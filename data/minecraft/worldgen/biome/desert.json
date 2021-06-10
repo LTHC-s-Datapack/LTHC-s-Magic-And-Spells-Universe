@@ -7,12 +7,12 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 7907327,
+    "sky_color": 7254527,
     "fog_color": 12638463,
     "water_color": 4159204,
     "water_fog_color": 329011
   },
-  "surface_builder": "minecraft:grass",
+  "surface_builder": "minecraft:desert",
   "carvers": {
     "air": [
       "minecraft:prototype_cave",
@@ -23,16 +23,19 @@
   "features": [
     [],
     [
-      "minecraft:lake_water",
       "minecraft:lake_lava"
     ],
     [
       "minecraft:amethyst_geode"
     ],
     [
+      "minecraft:prototype_fossil_upper",
+      "minecraft:prototype_fossil_lower",
       "minecraft:monster_room"
     ],
-    [],
+    [
+      "minecraft:desert_well"
+    ],
     [],
     [
       "minecraft:prototype_ore_dirt",
@@ -64,36 +67,29 @@
       "minecraft:rare_small_dripstone"
     ],
     [
-      "minecraft:patch_tall_grass_2",
       "minecraft:prototype_glow_lichen",
-      "minecraft:plain_vegetation",
-      "minecraft:flower_plain_decorated",
-      "minecraft:patch_grass_plain",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_badlands",
+      "minecraft:patch_dead_bush_2",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
+      "minecraft:patch_sugar_cane_desert",
       "minecraft:patch_pumpkin",
+      "minecraft:patch_cactus_desert",
       "minecraft:prototype_spring_water",
-      "minecraft:spring_lava",
-      "minecraft:lush_caves_ceiling_vegetation",
-      "minecraft:cave_vines",
-      "minecraft:lush_caves_clay",
-      "minecraft:lush_caves_vegetation",
-      "minecraft:rooted_azalea_trees",
-      "minecraft:spore_blossom",
-      "minecraft:classic_vines_cave_feature"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
   "starts": [
-    "minecraft:village_plains",
+    "minecraft:village_desert",
     "minecraft:pillager_outpost",
+    "minecraft:desert_pyramid",
     "minecraft:mineshaft",
     "minecraft:stronghold",
-    "minecraft:ruined_portal",
-    "lthc.lmasu:magic_school_unman"
+    "minecraft:ruined_portal_desert"
   ],
   "spawners": {
     "monster": [
@@ -105,13 +101,13 @@
       },
       {
         "type": "minecraft:zombie",
-        "weight": 95,
+        "weight": 19,
         "minCount": 4,
         "maxCount": 4
       },
       {
         "type": "minecraft:zombie_villager",
-        "weight": 5,
+        "weight": 1,
         "minCount": 1,
         "maxCount": 1
       },
@@ -144,43 +140,19 @@
         "weight": 5,
         "minCount": 1,
         "maxCount": 1
+      },
+      {
+        "type": "minecraft:husk",
+        "weight": 80,
+        "minCount": 4,
+        "maxCount": 4
       }
     ],
     "creature": [
       {
-        "type": "minecraft:sheep",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:pig",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:chicken",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:cow",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:horse",
-        "weight": 5,
+        "type": "minecraft:rabbit",
+        "weight": 4,
         "minCount": 2,
-        "maxCount": 6
-      },
-      {
-        "type": "minecraft:donkey",
-        "weight": 1,
-        "minCount": 1,
         "maxCount": 3
       }
     ],
@@ -211,10 +183,10 @@
     "misc": []
   },
   "spawn_costs": {},
-  "player_spawn_friendly": true,
-  "precipitation": "rain",
-  "temperature": 0.8,
-  "downfall": 0.4,
-  "category": "plains",
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "temperature": 2.0,
+  "downfall": 0.0,
+  "category": "desert",
   "depth": 0.125
 }

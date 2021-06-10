@@ -1,0 +1,60 @@
+{
+    "config": {
+      "feature": {
+        "config": {
+          "feature": {
+            "config": {
+              "features": [
+                {
+                  "feature": "lthc.lmasu:trees/giga_pine",
+                  "chance": 0.40
+                },
+                {
+                  "feature": "minecraft:mega_pine",
+                  "chance": 0.35
+                }
+              ],
+              "default": "minecraft:spruce"
+            },
+            "type": "minecraft:random_selector"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {
+                  "outer": {
+                    "config": {
+                      "max_water_depth": 0
+                    },
+                    "type": "minecraft:water_depth_threshold"
+                  },
+                  "inner": {
+                    "config": {
+                      "heightmap": "OCEAN_FLOOR"
+                    },
+                    "type": "minecraft:heightmap"
+                  }
+                },
+                "type": "minecraft:decorated"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      "decorator": {
+        "config": {
+          "count": 10,
+          "extra_chance": 0.2,
+          "extra_count": 2
+        },
+        "type": "minecraft:count_extra"
+      }
+    },
+    "type": "minecraft:decorated"
+  }

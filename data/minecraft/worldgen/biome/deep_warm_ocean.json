@@ -1,5 +1,5 @@
 {
-  "scale": 0.05,
+  "scale": 0.1,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -7,17 +7,16 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 7907327,
+    "sky_color": 8103167,
     "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_color": 4445678,
+    "water_fog_color": 270131
   },
-  "surface_builder": "minecraft:grass",
+  "surface_builder": "minecraft:full_sand",
   "carvers": {
     "air": [
       "minecraft:prototype_cave",
-      "minecraft:prototype_canyon",
-      "minecraft:prototype_crevice"
+      "minecraft:prototype_canyon"
     ]
   },
   "features": [
@@ -64,36 +63,29 @@
       "minecraft:rare_small_dripstone"
     ],
     [
-      "minecraft:patch_tall_grass_2",
       "minecraft:prototype_glow_lichen",
-      "minecraft:plain_vegetation",
-      "minecraft:flower_plain_decorated",
-      "minecraft:patch_grass_plain",
+      "minecraft:trees_water",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:prototype_spring_water",
       "minecraft:spring_lava",
-      "minecraft:lush_caves_ceiling_vegetation",
-      "minecraft:cave_vines",
-      "minecraft:lush_caves_clay",
-      "minecraft:lush_caves_vegetation",
-      "minecraft:rooted_azalea_trees",
-      "minecraft:spore_blossom",
-      "minecraft:classic_vines_cave_feature"
+      "minecraft:seagrass_deep_warm",
+      "minecraft:seagrass_simple"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
   "starts": [
-    "minecraft:village_plains",
-    "minecraft:pillager_outpost",
+    "minecraft:ocean_ruin_warm",
+    "minecraft:monument",
     "minecraft:mineshaft",
-    "minecraft:stronghold",
-    "minecraft:ruined_portal",
-    "lthc.lmasu:magic_school_unman"
+    "minecraft:shipwreck",
+    "minecraft:ruined_portal_ocean"
   ],
   "spawners": {
     "monster": [
@@ -144,46 +136,15 @@
         "weight": 5,
         "minCount": 1,
         "maxCount": 1
-      }
-    ],
-    "creature": [
-      {
-        "type": "minecraft:sheep",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
       },
       {
-        "type": "minecraft:pig",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:chicken",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:cow",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:horse",
+        "type": "minecraft:drowned",
         "weight": 5,
-        "minCount": 2,
-        "maxCount": 6
-      },
-      {
-        "type": "minecraft:donkey",
-        "weight": 1,
         "minCount": 1,
-        "maxCount": 3
+        "maxCount": 1
       }
     ],
+    "creature": [],
     "ambient": [
       {
         "type": "minecraft:bat",
@@ -206,15 +167,35 @@
         "maxCount": 6
       }
     ],
-    "water_creature": [],
-    "water_ambient": [],
+    "water_creature": [
+      {
+        "type": "minecraft:squid",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:dolphin",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "water_ambient": [
+      {
+        "type": "minecraft:tropical_fish",
+        "weight": 25,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
     "misc": []
   },
   "spawn_costs": {},
-  "player_spawn_friendly": true,
+  "player_spawn_friendly": false,
   "precipitation": "rain",
-  "temperature": 0.8,
-  "downfall": 0.4,
-  "category": "plains",
-  "depth": 0.125
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "category": "ocean",
+  "depth": -1.8
 }
