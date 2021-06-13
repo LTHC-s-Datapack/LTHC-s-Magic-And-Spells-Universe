@@ -118,15 +118,15 @@
     "simplex_surface_noise": true,
     "random_density_offset": true,
     "size_vertical": 2,
-    "density_factor": 1.0,
-    "density_offset": -0.46875,
+    "density_factor": 1.5,
+    "density_offset": -0.47988,
     "top_slide": {
-      "target": -10,
-      "size": 3,
+      "target": -12,
+      "size": 4,
       "offset": 0
     },
     "bottom_slide": {
-      "target": 15,
+      "target": 16,
       "size": 3,
       "offset": 0
     },
@@ -134,8 +134,8 @@
     "min_y": -64,
     "height": 384,
     "sampling": {
-      "xz_scale": 0.9999999814507745,
-      "y_scale": 0.9999999814507745,
+      "xz_scale": 0.8349999814507745,
+      "y_scale": 1.0023,
       "xz_factor": 80.0,
       "y_factor": 160.0
     }
