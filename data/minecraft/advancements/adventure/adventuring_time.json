@@ -564,6 +564,14 @@
           }
         }
       },
+      "minecraft:deep_ocean": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "location": {
+            "biome": "minecraft:deep_ocean"
+          }
+        }
+      },
       "lthc.lmasu:forestian": {
         "trigger": "minecraft:location",
         "conditions": {
@@ -809,6 +817,9 @@
       ],
       [
         "minecraft:tall_birch_hills"
+      ],
+      [
+        "minecraft:deep_ocean"
       ],
       [
         "lthc.lmasu:colored_lands"
