@@ -1,4 +1,3 @@
-function lthc.lmasu:lthc.lmasu/rune/void
-function lthc.lmasu:lthc.lmasu/rune/elemental
+function #lthc.lmasu:lthc.lmasu/rune
 
 schedule function lthc.lmasu:lthc.lmasu/rune/run 67s replace

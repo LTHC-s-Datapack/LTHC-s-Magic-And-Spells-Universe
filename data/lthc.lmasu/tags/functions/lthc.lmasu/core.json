@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "lthc.lmasu:lthc.lmasu/main/mana",
+        "lthc.lmasu:lthc.lmasu/main/magic",
+        "lthc.lmasu:lthc.lmasu/main/cld",
+        "lthc.lmasu:lthc.lmasu/spells/run",
+        "lthc.lmasu:lthc.lmasu/magic_books/run",
+        "lthc.lmasu:lthc.lmasu/main/clearer",
+        "lthc.lmasu:lthc.lmasu/adv/adv_main",
+        "lthc.lmasu:lthc.lmasu/events/run",
+        "lthc.lmasu:lthc.lmasu/main/checker",
+        "lthc.lmasu:lthc.lmasu/bosses/core_ovb"
+    ]
+}

@@ -36,8 +36,4 @@ execute as @a[scores={lmasu_clds=..0,lmasu_mana=2050..,lmasu_snktime=40..,lmasu_
 execute as @a[scores={lmasu_clds=..0,lmasu_mana=1120..,lmasu_snktime=40..,lmasu_mglvl=3..},nbt={SelectedItem:{id:"minecraft:stick",tag:{pow_frz:true}}}] run function lthc.lmasu:lthc.lmasu/spells/sp2/pow_frz
 
 #Spells Actions
-function lthc.lmasu:lthc.lmasu/spells/actions/damar
-function lthc.lmasu:lthc.lmasu/spells/actions/arw
-function lthc.lmasu:lthc.lmasu/spells/actions/pow_frz
-function lthc.lmasu:lthc.lmasu/spells/actions/frz_fal_action
-function lthc.lmasu:lthc.lmasu/spells/actions/no_arrow
+function #lthc.lmasu:lthc.lmasu/spells

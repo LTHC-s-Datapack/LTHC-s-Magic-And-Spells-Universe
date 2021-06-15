@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "lthc.lmasu:lthc.lmasu/spells/actions/damar",
+        "lthc.lmasu:lthc.lmasu/spells/actions/arw",
+        "lthc.lmasu:lthc.lmasu/spells/actions/pow_frz",
+        "lthc.lmasu:lthc.lmasu/spells/actions/frz_fal_action",
+        "lthc.lmasu:lthc.lmasu/spells/actions/no_arrow"
+    ]
+}
