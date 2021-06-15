@@ -1,0 +1,64 @@
+{
+    "criteria": {
+      "craft": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "offsetZ": -2,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "offsetZ": 2,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetX": -2,
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetX": 2,
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:dropper",
+                  "nbt": "{Items:[{id:\"minecraft:feather\",Count:6b},{id:\"minecraft:coal\",Count:15b}]}"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "lthc.lmasu:lthc.lmasu/craft/component/compounds/sky_s_fire"
+    }
+  }

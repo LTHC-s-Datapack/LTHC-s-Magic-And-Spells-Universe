@@ -572,43 +572,43 @@
           }
         }
       },
-      "lthc.lmasu:forestian": {
+      "lthc.lmasu:lthc.lmasu/forestian": {
         "trigger": "minecraft:location",
         "conditions": {
           "location": {
-            "biome": "lthc.lmasu:forestian"
+            "biome": "lthc.lmasu:lthc.lmasu/forestian"
           }
         }
       },
-      "lthc.lmasu:giga_pines_biome": {
+      "lthc.lmasu:lthc.lmasu/giga_pines_biome": {
         "trigger": "minecraft:location",
         "conditions": {
           "location": {
-            "biome": "lthc.lmasu:giga_pines_biome"
+            "biome": "lthc.lmasu:lthc.lmasu/giga_pines_biome"
           }
         }
       },
-      "lthc.lmasu:more_carved_jungle": {
+      "lthc.lmasu:lthc.lmasu/more_carved_jungle": {
         "trigger": "minecraft:location",
         "conditions": {
           "location": {
-            "biome": "lthc.lmasu:more_carved_jungle"
+            "biome": "lthc.lmasu:lthc.lmasu/more_carved_jungle"
           }
         }
       },
-      "lthc.lmasu:warmy_ocean": {
+      "lthc.lmasu:lthc.lmasu/warmy_ocean": {
         "trigger": "minecraft:location",
         "conditions": {
           "location": {
-            "biome": "lthc.lmasu:warmy_ocean"
+            "biome": "lthc.lmasu:lthc.lmasu/warmy_ocean"
           }
         }
       },
-      "lthc.lmasu:colored_lands": {
+      "lthc.lmasu:lthc.lmasu/colored_lands": {
         "trigger": "minecraft:location",
         "conditions": {
           "location": {
-            "biome": "lthc.lmasu:colored_lands"
+            "biome": "lthc.lmasu:lthc.lmasu/colored_lands"
           }
         }
       }
@@ -822,19 +822,19 @@
         "minecraft:deep_ocean"
       ],
       [
-        "lthc.lmasu:colored_lands"
+        "lthc.lmasu:lthc.lmasu/colored_lands"
       ],
       [
-        "lthc.lmasu:forestian"
+        "lthc.lmasu:lthc.lmasu/forestian"
       ],
       [
-        "lthc.lmasu:giga_pines_biome"
+        "lthc.lmasu:lthc.lmasu/giga_pines_biome"
       ],
       [
-        "lthc.lmasu:more_carved_jungle"
+        "lthc.lmasu:lthc.lmasu/more_carved_jungle"
       ],
       [
-        "lthc.lmasu:warmy_ocean"
+        "lthc.lmasu:lthc.lmasu/warmy_ocean"
       ]
     ]
   }

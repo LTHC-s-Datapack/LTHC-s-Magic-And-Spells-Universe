@@ -93,7 +93,7 @@
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal",
-    "lthc.lmasu:magic_school_unman"
+    "lthc.lmasu:lthc.lmasu/magic_school_unman"
   ],
   "spawners": {
     "monster": [

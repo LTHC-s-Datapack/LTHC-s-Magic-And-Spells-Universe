@@ -1,0 +1,64 @@
+{
+    "criteria": {
+      "craft": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "offsetZ": -2,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "offsetZ": 2,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetX": -2,
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetX": 2,
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:gold_block"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "block": "minecraft:dropper",
+                  "nbt": "{Items:[{id:\"minecraft:arrow\",Count:1b},{id:\"minecraft:iron_nugget\",Count:2b}]}"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "lthc.lmasu:lthc.lmasu/craft/component/components/projectile"
+    }
+  }

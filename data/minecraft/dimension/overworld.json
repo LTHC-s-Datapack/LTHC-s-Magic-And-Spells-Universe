@@ -303,7 +303,7 @@
 			  "weirdness": 0.089,
 			  "offset": 0.103
 			},
-			"biome": "lthc.lmasu:giga_pines_biome"
+			"biome": "lthc.lmasu:lthc.lmasu/giga_pines_biome"
 		  },
 		  {
 			"parameters": {
@@ -376,7 +376,7 @@
 			  "weirdness": 0.111,
 			  "offset": 0.03
 			},
-			"biome": "lthc.lmasu:giga_pines_biome"
+			"biome": "lthc.lmasu:lthc.lmasu/giga_pines_biome"
 		  },
 		  {
 			"parameters": {
@@ -944,7 +944,7 @@
 			  "weirdness": 0.079,
 			  "offset": 0.4205
 			},
-			"biome": "lthc.lmasu:more_carved_jungle"
+			"biome": "lthc.lmasu:lthc.lmasu/more_carved_jungle"
 		  },
 		  
 		  {
@@ -965,7 +965,7 @@
 			  "weirdness": 0.08,
 			  "offset": 0.42
 			},
-			"biome": "lthc.lmasu:more_carved_jungle"
+			"biome": "lthc.lmasu:lthc.lmasu/more_carved_jungle"
 		  },
 		  {
 			"parameters": {
@@ -1341,7 +1341,7 @@
 			  "weirdness": 0.05,
 			  "offset": 0.78
 			},
-			"biome": "lthc.lmasu:colored_lands"
+			"biome": "lthc.lmasu:lthc.lmasu/colored_lands"
 		  },
 		  {
 			"parameters": {
@@ -1351,7 +1351,7 @@
 			  "weirdness": 0.1,
 			  "offset": 0.78
 			},
-			"biome": "lthc.lmasu:colored_lands"
+			"biome": "lthc.lmasu:lthc.lmasu/colored_lands"
 		  },
 		  {
 			"parameters": {
@@ -1472,7 +1472,7 @@
 			  "weirdness": 0.0,
 			  "offset": 0.0
 			},
-			"biome": "lthc.lmasu:forestian"
+			"biome": "lthc.lmasu:lthc.lmasu/forestian"
 		  },
 		  {
 			"parameters": {
@@ -1502,7 +1502,7 @@
 			  "weirdness": 0.1,
 			  "offset": 0.0
 			},
-			"biome": "lthc.lmasu:warmy_ocean"
+			"biome": "lthc.lmasu:lthc.lmasu/warmy_ocean"
 		  },
 		  {
 			"parameters": {
