@@ -23,7 +23,7 @@ This Datapack is created for have fun with magic and a modified overworld with n
 | ✅   | Multiplayer     |
 | ✅   | Vanilla         |
 | ✅   | Optifine        |
-| ❔   | Fabric          |
+| ✅   | Fabric          |
 | ❔   | Forge           |
 | ❓   | Realms          |
 | ❔   | Bukkit          |
