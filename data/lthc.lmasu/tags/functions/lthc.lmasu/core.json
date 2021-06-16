@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
+        "lthc.lmasu:lthc.lmasu/guide/guide_books",
         "lthc.lmasu:lthc.lmasu/main/mana",
         "lthc.lmasu:lthc.lmasu/main/magic",
         "lthc.lmasu:lthc.lmasu/main/cld",

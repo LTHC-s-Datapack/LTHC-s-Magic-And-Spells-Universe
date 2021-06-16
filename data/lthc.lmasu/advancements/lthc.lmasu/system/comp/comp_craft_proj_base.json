@@ -10,7 +10,9 @@
               "offsetZ": -2,
               "predicate": {
                 "block": {
-                  "block": "minecraft:gold_block"
+                  "blocks": [
+                    "minecraft:gold_block"
+                  ]
                 }
               }
             },
@@ -20,7 +22,9 @@
               "offsetZ": 2,
               "predicate": {
                 "block": {
-                  "block": "minecraft:gold_block"
+                  "blocks": [
+                    "minecraft:gold_block"
+                  ]
                 }
               }
             },
@@ -30,7 +34,9 @@
               "offsetY": -1,
               "predicate": {
                 "block": {
-                  "block": "minecraft:gold_block"
+                  "blocks": [
+                    "minecraft:gold_block"
+                  ]
                 }
               }
             },
@@ -40,7 +46,9 @@
               "offsetY": -1,
               "predicate": {
                 "block": {
-                  "block": "minecraft:gold_block"
+                  "blocks": [
+                    "minecraft:gold_block"
+                  ]
                 }
               }
             },
@@ -49,8 +57,10 @@
               "offsetY": -1,
               "predicate": {
                 "block": {
-                  "block": "minecraft:dropper",
-                  "nbt": "{Items:[{id:\"minecraft:feather\",Count:6b},{id:\"minecraft:coal\",Count:15b}]}"
+                  "blocks": [
+                    "minecraft:dropper"
+                  ],
+                  "nbt": "{Items:[{id:\"minecraft:arrow\",Count:1b},{id:\"minecraft:iron_nugget\",Count:2b}]}"
                 }
               }
             }
@@ -59,6 +69,6 @@
       }
     },
     "rewards": {
-      "function": "lthc.lmasu:lthc.lmasu/craft/component/compounds/sky_s_fire"
+      "function": "lthc.lmasu:lthc.lmasu/craft/component/components/projectile"
     }
   }

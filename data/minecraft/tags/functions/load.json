@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "lthc.lmasu:lthc.lmasu/init"
+        "#lthc.lmasu:lthc.lmasu/init"
     ]
 }

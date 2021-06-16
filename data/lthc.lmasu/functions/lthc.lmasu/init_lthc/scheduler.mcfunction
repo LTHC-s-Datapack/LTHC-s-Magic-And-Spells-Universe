@@ -6,10 +6,8 @@ schedule function lthc.lmasu:lthc.lmasu/elemental_tools/run_power 4s replace
 schedule function lthc.lmasu:lthc.lmasu/elemental_tools/run_power_tick 15t replace
 
 #Crafting
-schedule function lthc.lmasu:lthc.lmasu/craft/component/crafter 1t replace
-schedule function lthc.lmasu:lthc.lmasu/craft/spells/crafter 2t replace
-schedule function lthc.lmasu:lthc.lmasu/craft/rune/crafter 3t replace
-schedule function lthc.lmasu:lthc.lmasu/craft/magic_books/crafter 4t replace
+schedule function lthc.lmasu:lthc.lmasu/craft/rune/crafter 1t replace
+schedule function lthc.lmasu:lthc.lmasu/craft/magic_books/crafter 2t replace
 
 #Potions
 schedule function lthc.lmasu:lthc.lmasu/potions/potion_craft_main 4t replace

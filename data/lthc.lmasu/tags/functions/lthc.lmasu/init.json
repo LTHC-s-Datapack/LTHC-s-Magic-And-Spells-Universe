@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "lthc.lmasu:lthc.lmasu/init_lthc/scoreboarder",
+        "lthc.lmasu:lthc.lmasu/init_lthc/scheduler"
+    ]
+}
