@@ -26,7 +26,7 @@ This Datapack is created for have fun with magic and a modified overworld with n
 | ✅   | Fabric          |
 | ❔   | Forge           |
 | ❓   | Realms          |
-| ❔   | Bukkit          |
-| ❔   | Spigot          |
-| ❔   | Paper           |
-| ❔   | Waterfall       |
+| ❌   | Bukkit          |
+| ❌   | Spigot          |
+| ❌   | Paper           |
+| ❌   | Waterfall       |
