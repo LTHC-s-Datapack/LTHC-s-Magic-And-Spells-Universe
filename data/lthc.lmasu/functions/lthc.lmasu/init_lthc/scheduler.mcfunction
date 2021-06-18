@@ -29,3 +29,6 @@ schedule function lthc.lmasu:lthc.lmasu/init_lthc/fk_player_init 4s replace
 
 #Boss summon controller
 schedule function lthc.lmasu:lthc.lmasu/bosses/summon_overworldian 1t replace
+
+#Mob levels
+schedule function lthc.lmasu:lthc.lmasu/mob_levels/manager 9t replace

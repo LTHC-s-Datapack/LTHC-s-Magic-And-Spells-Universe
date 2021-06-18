@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "lthc.lmasu:lthc.lmasu/admin/giver/get_books",
+        "lthc.lmasu:lthc.lmasu/admin/giver/get_comp",
+        "lthc.lmasu:lthc.lmasu/admin/giver/get_spells"
+    ]
+}

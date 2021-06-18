@@ -71,3 +71,6 @@ scoreboard objectives add lmasu_rt_ev_zimv dummy
 
 #Overworldian power
 scoreboard objectives add lmasu_ovb_tm dummy
+
+#Mob Levels
+scoreboard objectives add lmasu_mblvl dummy

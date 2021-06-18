@@ -31,5 +31,7 @@ scoreboard players add @a lmasuc_noarrow 0
 scoreboard players add @a lmasuc_powfrz 0
 scoreboard players add @a lmasuc_travel 0
 
+scoreboard players add @e lmasu_mblvl 0
+
 #Auto Recall
 schedule function lthc.lmasu:lthc.lmasu/main/basics 10t replace
