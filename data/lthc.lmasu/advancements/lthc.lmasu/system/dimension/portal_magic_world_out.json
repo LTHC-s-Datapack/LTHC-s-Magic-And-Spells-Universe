@@ -8,7 +8,7 @@
             "condition": "minecraft:location_check",
             "offsetY": -1,
             "predicate": {
-              "dimension": "minecraft:overworld",
+              "dimension": "lthc.lmasu:lmasu.magic_world",
               "block": {
                 "blocks": [
                   "minecraft:blue_concrete",
@@ -27,6 +27,6 @@
     }
   },
   "rewards": {
-      "function": "lthc.lmasu:lthc.lmasu/dimension/go_to_magic_world"
+      "function": "lthc.lmasu:lthc.lmasu/dimension/go_out_magic_world"
   }
 }

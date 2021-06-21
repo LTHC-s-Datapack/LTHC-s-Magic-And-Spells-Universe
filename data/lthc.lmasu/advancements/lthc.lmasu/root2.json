@@ -3,13 +3,13 @@
         "icon": {
             "item": "minecraft:enchanted_book"
         },
-        "title": "Magic world",
-        "description": "use /trigger lmasu_books for claim guide books",
+        "title": "",
+        "description": "Eat an apple on a blue concrete or a green concrete to enter or quit the Magic World Dimension",
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": true,
         "frame": "task",
-        "background": "minecraft:textures/colormap/foliage.png"
+        "background": "minecraft:textures/block/stone.png"
     },
     "criteria": {
         "a":{
