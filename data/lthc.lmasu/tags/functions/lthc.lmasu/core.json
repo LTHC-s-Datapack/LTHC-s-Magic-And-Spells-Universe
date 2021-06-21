@@ -11,6 +11,7 @@
         "lthc.lmasu:lthc.lmasu/adv/adv_main",
         "lthc.lmasu:lthc.lmasu/events/run",
         "lthc.lmasu:lthc.lmasu/main/checker",
-        "lthc.lmasu:lthc.lmasu/bosses/core_ovb"
+        "lthc.lmasu:lthc.lmasu/bosses/core_ovb",
+        "lthc.lmasu:lthc.lmasu/main/call_menu"
     ]
 }
