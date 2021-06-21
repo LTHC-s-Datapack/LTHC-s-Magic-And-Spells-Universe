@@ -1,0 +1,27 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:enter_block",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:location_check",
+              "offsetY": -1,
+              "predicate": {
+                "block": {
+                  "blocks": [
+                    "minecraft:blue_concrete",
+                    "minecraft:pink_concrete"
+                  ]
+                }
+              }
+            }
+          ],
+          "block": "minecraft:barrel"
+        }
+      }
+    },
+    "rewards": {
+        "function": "lthc.lmasu:lthc.lmasu/dimension/go_to_magic_world"
+    }
+  }
