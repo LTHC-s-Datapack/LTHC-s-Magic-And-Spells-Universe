@@ -1,0 +1,10 @@
+{
+    "processors": [
+      {
+        "rules": [
+        ],
+        "processor_type": "minecraft:rule"
+      }
+    ]
+}
+  

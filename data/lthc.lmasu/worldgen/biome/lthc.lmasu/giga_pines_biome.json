@@ -82,7 +82,8 @@
     "starts": [
       "minecraft:mineshaft",
       "minecraft:stronghold",
-      "minecraft:ruined_portal"
+      "minecraft:ruined_portal",
+      "lthc.lmasu:lthc.lmasu/mws/mws"
     ],
     "spawners": {
       "monster": [
