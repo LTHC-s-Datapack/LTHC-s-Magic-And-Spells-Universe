@@ -1,24 +1,33 @@
 {
-    "name": "lthc.lmasu:lthc.lmasu/mws/mws",
-    "fallback": "minecraft:empty",
-    "elements": [
-      {
+  "name": "lthc.lmasu:lthc.lmasu/mws/mws",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 7,
+      "element": {
         "element_type": "single_pool_element",
         "projection": "rigid",
         "location": "lthc.lmasu:lthc.lmasu/mws/mwsn",
         "processors": "lthc.lmasu:lthc.lmasu/mws/mws"
-      },
-      {
+      }
+    },
+    {
+      "weight": 53,
+      "element": {
         "element_type": "single_pool_element",
         "projection": "rigid",
         "location": "lthc.lmasu:lthc.lmasu/mws/mws0",
         "processors": "lthc.lmasu:lthc.lmasu/mws/mws"
-      },
-      {
+      }
+    },
+    {
+      "weight": 40,
+      "element": {
         "element_type": "single_pool_element",
         "projection": "rigid",
         "location": "lthc.lmasu:lthc.lmasu/mws/mws1",
         "processors": "lthc.lmasu:lthc.lmasu/mws/mws"
       }
-    ]
+    }
+  ]
 }
