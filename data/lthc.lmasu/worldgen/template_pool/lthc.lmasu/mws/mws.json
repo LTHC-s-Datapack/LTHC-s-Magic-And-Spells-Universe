@@ -1,33 +1,33 @@
 {
-  "name": "lthc.lmasu:lthc.lmasu/mws/mws",
-  "fallback": "minecraft:empty",
+  "name":"lthc.lmasu:mws",
+  "fallback":"minecraft:empty",
   "elements": [
-    {
-      "weight": 7,
-      "element": {
-        "element_type": "single_pool_element",
-        "projection": "rigid",
-        "location": "lthc.lmasu:lthc.lmasu/mws/mwsn",
-        "processors": "lthc.lmasu:lthc.lmasu/mws/mws"
-      }
+      {
+          "weight":1,
+          "element": {
+              "location":"lthc.lmasu:lthc.lmasu/mws/mwsn",
+              "processors":"minecraft:empty",
+              "projection":"rigid",
+              "element_type":"minecraft:single_pool_element"
+          }
+      },
+      {
+        "weight":1,
+        "element": {
+            "location":"lthc.lmasu:lthc.lmasu/mws/mws0",
+            "processors":"minecraft:empty",
+            "projection":"rigid",
+            "element_type":"minecraft:single_pool_element"
+        }
     },
     {
-      "weight": 53,
+      "weight":1,
       "element": {
-        "element_type": "single_pool_element",
-        "projection": "rigid",
-        "location": "lthc.lmasu:lthc.lmasu/mws/mws0",
-        "processors": "lthc.lmasu:lthc.lmasu/mws/mws"
+          "location":"lthc.lmasu:lthc.lmasu/mws/mws1",
+          "processors":"minecraft:empty",
+          "projection":"rigid",
+          "element_type":"minecraft:single_pool_element"
       }
-    },
-    {
-      "weight": 40,
-      "element": {
-        "element_type": "single_pool_element",
-        "projection": "rigid",
-        "location": "lthc.lmasu:lthc.lmasu/mws/mws1",
-        "processors": "lthc.lmasu:lthc.lmasu/mws/mws"
-      }
-    }
+  }
   ]
 }

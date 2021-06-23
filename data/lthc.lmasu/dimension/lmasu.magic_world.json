@@ -84,11 +84,11 @@
 		  },
 		  {
 			"parameters": {
-			  "temperature": 0,
+			  "temperature": 0.02,
 			  "humidity": 0,
 			  "altitude": 0,
 			  "weirdness": 0,
-			  "offset": 0.01
+			  "offset": 0
 			},
 			"biome": "lthc.lmasu:lthc.lmasu/colored_lands"
 		  }
