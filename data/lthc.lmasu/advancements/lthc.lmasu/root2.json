@@ -4,7 +4,20 @@
             "item": "minecraft:enchanted_book"
         },
         "title": "",
-        "description": "Eat an apple on a blue concrete\n or a green concrete to enter or quit\n the Magic World Dimension",
+        "description": {
+            "text": "",
+            "extra": [
+                {
+                    "text": "Eat an apple on a blue concrete"
+                },
+                {
+                    "text": "or a green concrete to enter or quit"
+                },
+                {
+                    "text": "the Magic World Dimension"
+                }
+            ]
+        },
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": true,
