@@ -1,20 +1,20 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:enchanted_book"
+            "item": "minecraft:enchanting_table"
         },
-        "title": "",
+        "title": "A Magic Dimension",
         "description": {
-            "text": "",
+            "text": "Hey!! \n ",
             "extra": [
                 {
-                    "text": "Eat an apple on a blue concrete"
+                    "text": "Eat an apple on a blue concrete \n "
                 },
                 {
-                    "text": "or a green concrete to enter or quit"
+                    "text": "or a green concrete to enter or quit \n "
                 },
                 {
-                    "text": "the Magic World Dimension"
+                    "text": "the Magic World Dimension \n "
                 }
             ]
         },
