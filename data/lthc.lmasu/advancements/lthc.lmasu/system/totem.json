@@ -1,0 +1,15 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:used_totem",
+        "conditions": {
+          "item": {
+            "nbt": "{CustomModelData:1001,lmasu_eyet:true}"
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "lthc.lmasu:lthc.lmasu/special/totem"
+    }
+  }

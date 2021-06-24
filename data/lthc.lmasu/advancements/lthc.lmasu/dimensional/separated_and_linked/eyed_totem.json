@@ -1,0 +1,25 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:totem_of_undying",
+        "nbt": "{CustomModelData:1001}"
+      },
+      "title": "The view power",
+      "description": "use an \"Eyed Totem of Undying\"",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "parent": "lthc.lmasu:lthc.lmasu/dimensional/discover_the_dimension",
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:used_totem",
+        "conditions": {
+          "item": {
+            "nbt": "{CustomModelData:1001,lmasu_eyet:true}"
+          }
+        }
+      }
+    }
+  }

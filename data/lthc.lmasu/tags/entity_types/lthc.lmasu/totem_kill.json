@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "#lthc.lmasu:lthc.lmasu/simple_monsters",
+        "witch",
+        "cave_spider",
+        "wither_skeleton",
+        "wither_skull",
+        "#arrows"
+    ]
+}
