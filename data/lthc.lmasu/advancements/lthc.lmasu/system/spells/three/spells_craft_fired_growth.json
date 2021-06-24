@@ -121,6 +121,6 @@
       }
     },
     "rewards": {
-      "function": "lthc.lmasu:lthc.lmasu/craft/spells/spells/elements_three/fired_growth"
+      "function": "lthc.lmasu:lthc.lmasu/craft/spells/elements_three/fired_growth"
     }
   }

@@ -1,5 +1,5 @@
 # -------------------------
-# Root Location: lthc.lmasu:lthc.lmasu/craft/spells/spells/elements_two/
+# Root Location: lthc.lmasu:lthc.lmasu/craft/spells/elements_two/
 # Desc: Craft the associated spell
 # -------------------------
 

@@ -121,6 +121,6 @@
       }
     },
     "rewards": {
-      "function": "lthc.lmasu:lthc.lmasu/craft/spells/spells/elements_two/heavy_rock"
+      "function": "lthc.lmasu:lthc.lmasu/craft/spells/elements_two/heavy_rock"
     }
   }

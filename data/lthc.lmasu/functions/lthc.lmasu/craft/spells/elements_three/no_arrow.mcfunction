@@ -1,5 +1,5 @@
 # -------------------------
-# Root Location: lthc.lmasu:lthc.lmasu/craft/spells/spells/elements_three/
+# Root Location: lthc.lmasu:lthc.lmasu/craft/spells/elements_three/
 # Desc: Craft the associated spell
 # -------------------------
 

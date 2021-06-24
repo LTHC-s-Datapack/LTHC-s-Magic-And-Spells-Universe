@@ -1,5 +1,5 @@
 # -------------------------
-# Root Location: lthc.lmasu:lthc.lmasu/craft/spells/spells/elements_four/
+# Root Location: lthc.lmasu:lthc.lmasu/craft/spells/elements_four/
 # Desc: Craft the associated spell
 # -------------------------
 
