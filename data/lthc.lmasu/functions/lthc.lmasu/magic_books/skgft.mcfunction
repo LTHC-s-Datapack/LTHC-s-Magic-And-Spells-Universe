@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/magic_books/
+# Desc: Control the associated magic book
+# -------------------------
+
 give @s coal 16
 give @s iron_ingot 8
 give @s gold_ingot 8

@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/spells/actions/
+# Desc: Control the associated spell
+# -------------------------
+
 summon arrow ~ ~3 ~ {damage:7d,Tags:["lmasu_cllg"]}
 summon arrow ~1 ~3 ~ {damage:4d,Tags:["lmasu_cllg"]}
 summon arrow ~-1 ~3 ~ {damage:4d,Tags:["lmasu_cllg"]}

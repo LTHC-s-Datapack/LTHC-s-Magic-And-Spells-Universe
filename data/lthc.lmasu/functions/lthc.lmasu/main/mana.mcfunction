@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/main/
+# Desc: Control the mana
+# -------------------------
+
 #Mana Level manip
 execute as @a[scores={lmasu_manalvlxp=400..,lmasu_manalvl=1}] run function lthc.lmasu:lthc.lmasu/main/manalvlup
 execute as @a[scores={lmasu_manalvlxp=1250..,lmasu_manalvl=2}] run function lthc.lmasu:lthc.lmasu/main/manalvlup

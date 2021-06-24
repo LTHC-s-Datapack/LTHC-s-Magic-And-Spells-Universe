@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/magic_books/
+# Desc: Control the associated magic book
+# -------------------------
+
 scoreboard players remove @s lmasu_mana 20000
 scoreboard players set @s lmasu_clds 150
 scoreboard players set @s lmasu_cldtfs 20

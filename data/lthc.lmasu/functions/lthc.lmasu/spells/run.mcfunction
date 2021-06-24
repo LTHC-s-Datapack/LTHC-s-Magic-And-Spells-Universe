@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/spells/
+# Desc: Control the activation/casting of spells
+# -------------------------
+
 execute as @a[predicate=!lthc.lmasu:lthc.lmasu/is_sneak,scores={lmasu_snktime=1..}] run scoreboard players set @s lmasu_snktime 0
 execute as @a[predicate=lthc.lmasu:lthc.lmasu/is_sneak,scores={lmasu_snktime=..39}] run scoreboard players add @s lmasu_snktime 1
 

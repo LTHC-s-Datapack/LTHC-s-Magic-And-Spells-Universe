@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/events/
+# Desc: Control the events
+# -------------------------
+
 execute if score .LTHC_EV_GA lmasu_rt_ev_ga matches 1.. run scoreboard players add .LTHC_GA_EV lmasu_ev_ga 1
 
 execute if score .LTHC_GA_EV lmasu_ev_ga matches 35000 if score .LTHC_GA_EV lmasu_rt_ev_ga matches 1 run tellraw @a [{"text":"The Anger of God is comming on this world","color": "#FF0000"}]

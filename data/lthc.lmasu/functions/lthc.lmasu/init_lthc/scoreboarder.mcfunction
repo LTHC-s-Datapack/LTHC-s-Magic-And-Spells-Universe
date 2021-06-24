@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/init_lthc/
+# Desc: Create scoreboards
+# -------------------------
+
 #Mana
 scoreboard objectives add lmasu_mana dummy
 scoreboard objectives add lmasu_manatemp dummy

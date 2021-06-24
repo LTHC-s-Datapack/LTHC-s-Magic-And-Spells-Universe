@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/main/
+# Desc: Scoreboard security
+# -------------------------
+
 #Basics
 scoreboard players add @a lmasu_mana 0
 execute as @a unless score @s lmasu_manatemp matches -2147483648..2147483647 run scoreboard players set @s lmasu_manatemp 40

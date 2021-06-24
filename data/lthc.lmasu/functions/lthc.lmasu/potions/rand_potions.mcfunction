@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/potions/
+# Desc: Craft the random potion
+# -------------------------
+
 execute unless score @s lmasup_rand matches 1.. if predicate lthc.lmasu:lthc.lmasu/luck/1_of_10 run scoreboard players set @s lmasup_rand 1
 execute unless score @s lmasup_rand matches 1.. if predicate lthc.lmasu:lthc.lmasu/luck/1_of_10 run scoreboard players set @s lmasup_rand 2
 execute unless score @s lmasup_rand matches 1.. if predicate lthc.lmasu:lthc.lmasu/luck/1_of_10 run scoreboard players set @s lmasup_rand 3

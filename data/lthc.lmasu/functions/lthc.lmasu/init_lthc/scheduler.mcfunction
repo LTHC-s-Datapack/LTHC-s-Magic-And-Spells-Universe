@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/init_lthc/
+# Desc: Schedule functions
+# -------------------------
+
 #Rune
 schedule function lthc.lmasu:lthc.lmasu/rune/run 67s replace
 

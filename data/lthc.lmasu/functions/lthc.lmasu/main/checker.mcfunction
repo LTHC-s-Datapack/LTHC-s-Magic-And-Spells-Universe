@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/main/
+# Desc: Check triggered config (only permited players)
+# -------------------------
+
 execute as @a[tag=lmasu_admin_config] run scoreboard players enable @s lmasu_ad_ev_ga
 execute as @a[tag=lmasu_admin_config] run scoreboard players enable @s lmasu_ad_ev_zmiv
 

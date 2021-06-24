@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/potions/
+# Desc: Craft the potion
+# -------------------------
+
 #Kill Ingredients
 kill @e[type=item,nbt={Item:{id:"minecraft:sugar",Count:1b}},distance=0..2.5,limit=1]
 kill @e[type=item,nbt={Item:{id:"minecraft:scute",Count:1b}},distance=0..2.5,limit=1]

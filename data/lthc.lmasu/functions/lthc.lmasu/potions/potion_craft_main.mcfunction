@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/potions/
+# Desc: Control the potion crafting
+# -------------------------
+
 execute as @e[type=item, nbt={Item:{id:"minecraft:glass_bottle",Count:1b}}] at @s if block ~ ~-1 ~ water_cauldron run function lthc.lmasu:lthc.lmasu/potions/analyzer/analyze
 execute as @e[type=item, nbt={Item:{id:"minecraft:glass_bottle",Count:1b}}] at @s if block ~ ~ ~ water_cauldron run function lthc.lmasu:lthc.lmasu/potions/analyzer/analyze
 execute as @e[type=item, nbt={Item:{id:"minecraft:glass_bottle",Count:1b}}] at @s if block ~ ~1 ~ water_cauldron run function lthc.lmasu:lthc.lmasu/potions/analyzer/analyze

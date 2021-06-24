@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/main/
+# Desc: Control spells durability
+# -------------------------
+
 #Spells Clearing
 execute as @a[scores={lmasuc_anki=3..}] run function lthc.lmasu:lthc.lmasu/clear/anki
 execute as @a[scores={lmasuc_moki=3..}] run function lthc.lmasu:lthc.lmasu/clear/moki

@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/potions/analyzer/
+# Desc: Analyze which craft to do
+# -------------------------
+
 #Pre Basics
 scoreboard players set @s lmasup_speed 0
 scoreboard players set @s lmasup_tank 0

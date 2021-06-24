@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/main/
+# Desc: Control magic level up
+# -------------------------
+
 #Magic Level manip
 execute as @a[scores={lmasu_mglvlxp=100..,lmasu_mglvl=1}] run function lthc.lmasu:lthc.lmasu/main/magiclevelup
 execute as @a[scores={lmasu_mglvlxp=250..,lmasu_mglvl=2}] run function lthc.lmasu:lthc.lmasu/main/magiclevelup

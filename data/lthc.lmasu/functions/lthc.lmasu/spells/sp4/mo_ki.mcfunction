@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/spells/sp4/
+# Desc: Control the associated spell
+# -------------------------
+
 scoreboard players remove @s lmasu_mana 18000
 scoreboard players set @s lmasu_clds 33
 scoreboard players set @s lmasu_cldtfs 20

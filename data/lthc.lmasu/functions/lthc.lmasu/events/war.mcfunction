@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/events/
+# Desc: Start the zombie invasion
+# -------------------------
+
 execute at @s run function lthc.lmasu:lthc.lmasu/events/zombinvas
 execute at @s positioned ~-1 ~ ~ run function lthc.lmasu:lthc.lmasu/events/zombinvas
 execute at @s positioned ~1 ~ ~ run function lthc.lmasu:lthc.lmasu/events/zombinvas
