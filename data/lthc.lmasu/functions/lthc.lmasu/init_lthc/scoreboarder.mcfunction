@@ -76,3 +76,6 @@ scoreboard objectives add lmasu_ovb_tm dummy
 
 #Mob Levels
 scoreboard objectives add lmasu_mblvl dummy
+
+#Lag clearer
+scoreboard objectives add lmasu_cllg_count dummy

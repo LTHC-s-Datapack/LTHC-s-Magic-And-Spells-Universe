@@ -33,3 +33,6 @@ schedule function lthc.lmasu:lthc.lmasu/bosses/summon_netherian 1t replace
 
 #Mob levels
 schedule function lthc.lmasu:lthc.lmasu/mob_levels/manager 9t replace
+
+#Lmasu Lag Clearer
+schedule function lthc.lmasu:lthc.lmasu/lmasu_clear_lag/lmasu_clear_lag 120s replace
