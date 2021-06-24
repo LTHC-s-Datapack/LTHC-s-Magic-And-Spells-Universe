@@ -79,3 +79,4 @@ scoreboard objectives add lmasu_mblvl dummy
 
 #Lag clearer
 scoreboard objectives add lmasu_cllg_count dummy
+scoreboard objectives add lmasu_cllg_time dummy

@@ -36,3 +36,4 @@ schedule function lthc.lmasu:lthc.lmasu/mob_levels/manager 9t replace
 
 #Lmasu Lag Clearer
 schedule function lthc.lmasu:lthc.lmasu/lmasu_clear_lag/lmasu_clear_lag 120s replace
+schedule function lthc.lmasu:lthc.lmasu/lmasu_clear_lag/scan 5s replace
