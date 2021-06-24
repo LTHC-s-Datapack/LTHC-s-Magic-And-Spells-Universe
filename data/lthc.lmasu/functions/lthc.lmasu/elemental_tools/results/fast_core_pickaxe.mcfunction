@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/elemental_tools/results/
+# Desc: Craft the associated magic tool
+# -------------------------
+
 #kill materials and required entity
 kill @e[type=blaze,distance=0..22.5,limit=1]
 kill @e[type=cat,distance=0..22.5,limit=1]

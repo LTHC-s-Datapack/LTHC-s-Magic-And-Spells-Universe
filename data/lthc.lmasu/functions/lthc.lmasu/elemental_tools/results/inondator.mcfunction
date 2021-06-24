@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/elemental_tools/results/
+# Desc: Craft the associated magic tool
+# -------------------------
+
 #kill materials and required entity
 kill @e[type=squid,distance=0..16,limit=1]
 kill @e[type=item,nbt={Item:{id:"minecraft:water_bucket"}},limit=2,distance=0..9.2]

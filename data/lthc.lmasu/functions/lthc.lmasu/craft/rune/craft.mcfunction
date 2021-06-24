@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/craft/rune/
+# Desc: Crontrol the craft in rune crafter
+# -------------------------
+
 #Get data
 data modify storage lthc.lmasu:lthc.lmasu/rune_craft Items set from block ~ ~-1 ~ Items
 

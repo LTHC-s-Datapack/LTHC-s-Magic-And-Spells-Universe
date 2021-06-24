@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/bosses/overworldian/
+# Desc: Summon the Overworldian
+# -------------------------
+
 particle minecraft:angry_villager ~ ~ ~ ~ ~ ~ 2.5 45 force @a
 particle minecraft:flash ~ ~ ~ ~ ~ ~ 2.5 57 force @a
 fill ~-2 ~4 ~-2 ~2 ~-4 ~2 air replace

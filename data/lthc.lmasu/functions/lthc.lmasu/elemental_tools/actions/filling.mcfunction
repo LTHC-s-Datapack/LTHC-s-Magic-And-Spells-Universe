@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/elemental_tools/actions/
+# Desc: Control the power of the magic pickaxe
+# -------------------------
+
 #y = 0
 #->x = -2
 execute if block ~-2 ~ ~-2 #lthc.lmasu:lthc.lmasu/replacable run setblock ~-2 ~ ~-2 air destroy

@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/elemental_tools/
+# Desc: Control the forging/craft of the magic tools of "lmasu"
+# -------------------------
+
 #ice sword :: iron sword + 16 ice + snow golem (in area) + witch (in area)
 execute as @e[type=item,nbt={Item:{id:"minecraft:iron_sword",Count:1b}}] at @s if block ~ ~-1 ~ anvil if entity @e[type=item,nbt={Item:{id:"minecraft:ice",Count:16b}},distance=0..2.5] if entity @e[type=snow_golem,distance=0..12.5] if entity @e[type=witch,distance=0..12.5] run function lthc.lmasu:lthc.lmasu/elemental_tools/results/ice_sword
 #fast core pickaxe :: netherite pickaxe + 32 block de redstone + blaze (in area) + cat (in area) + magma cube (in area)

@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/admin/giver/
+# Desc: Give the spells of "lmasu"
+# -------------------------
+
 give @s stick{arrow_wave:true,display:{Name:'{"text":"[Spell] Arrow Wave","color":"#FFFF00"}',Lore:['{"text":"Mana Cost: 1100 mana","color":"white"}','{"text":"Min Magic level required: 3","color":"red"}']},CustomModelData:1302} 1
 give @s stick{dam_arrow:true,display:{Name:'{"text":"[Spell] Damaging Arrow","color":"#FFFF00"}',Lore:['{"text":"Mana Cost: 700 mana","color":"white"}']},CustomModelData:1301} 1
 give @s stick{hea_rck:true,display:{Name:'{"text":"[Spell] Heavy Rock","color":"#FFFF00"}',Lore:['{"text":"Mana Cost: 2050 mana","color":"white"}','{"text":"Min Magic level required: 4","color":"red"}']},CustomModelData:1305} 1

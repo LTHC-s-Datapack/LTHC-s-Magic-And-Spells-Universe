@@ -1,3 +1,8 @@
+# -------------------------
+# Root Location: lthc.lmasu:lthc.lmasu/elemental_tools/
+# Desc: Control somme magic tools' powers
+# -------------------------
+
 #fast core pickaxe
 execute as @a[scores={lmasu_mana=2500..,lmasu_mglvl=3..},nbt={SelectedItem:{id:"minecraft:netherite_pickaxe",tag:{lthc_fcore:true}}}] at @s run function lthc.lmasu:lthc.lmasu/elemental_tools/actions/filling
 #Inondator
