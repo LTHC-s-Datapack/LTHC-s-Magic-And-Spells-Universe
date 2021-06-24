@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:diamond_pickaxe"
+            "item": "minecraft:diamond_pickaxe",
+            "nbt": "{CustomModelData:1001}"
         },
         "title": "Miner area",
         "description": "Use the power of the spell Hol(e-i)day with a diamond pickaxe in your off hand",

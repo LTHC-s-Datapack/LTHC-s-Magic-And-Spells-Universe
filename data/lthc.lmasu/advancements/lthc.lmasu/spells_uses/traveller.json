@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:leather_boots"
+            "item": "minecraft:leather_boots",
+            "nbt": "{CustomModelData:1001}"
         },
         "title": "Traveller",
         "description": "use 100 times the spell Travel",
