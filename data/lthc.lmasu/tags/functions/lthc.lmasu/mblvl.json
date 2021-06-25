@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "lthc.lmasu:lthc.lmasu/mob_levels/zombie/lvl_manage"
+        "lthc.lmasu:lthc.lmasu/mob_levels/zombie/lvl_manage",
+        "lthc.lmasu:lthc.lmasu/mob_levels/skeleton/lvl_manage"
     ]
 }

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "#lthc.lmasu:lthc.lmasu/load/init",
+        {"id": "#lthc.lmasu:lthc.lmasu/load/pre_load", "required": false},
+        {"id": "#lthc.lmasu:lthc.lmasu/load", "required": false},
+        {"id": "#lthc.lmasu:lthc.lmasu/load/post_load", "required": false}
+    ]
+}
