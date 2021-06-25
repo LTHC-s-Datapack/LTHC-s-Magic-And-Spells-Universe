@@ -80,7 +80,7 @@
       ]
     ],
     "starts": [
-      "minecraft:village_plains"
+      "lthc.lmasu:lthc.lmasu/eye_totem"
     ],
     "spawners": {
       "monster": [

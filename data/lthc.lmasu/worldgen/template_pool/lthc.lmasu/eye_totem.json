@@ -1,0 +1,15 @@
+{
+    "name": "lthc.lmasu:lthc.lmasu/eye_totem",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "location": "lthc.lmasu:lthc.lmasu/eye_totem",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      }
+    ]
+}
