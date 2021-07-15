@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:barrel"
         },
-        "title": "Installed LTHC's Datapack",
+        "title": "Installed LTHC Datapack",
         "description": "",
         "show_toast": false,
         "announce_to_chat": false,
