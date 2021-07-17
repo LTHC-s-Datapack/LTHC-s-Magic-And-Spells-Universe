@@ -84,5 +84,5 @@ execute as @e[tag=lmasu_frzfal] run data modify entity @s NoAI set value 0b
 execute as @e[tag=lmasu_powfrz] run data modify entity @s NoAI set value 0b
 
 #Disable datapack
-datapack disable "file/lthc-s-magic-and-spells-universe_1.9.1.2v"
-datapack disable "file/lthc-s-magic-and-spells-universe_1.9.1.2v.zip"
+datapack disable "file/lthc-s-magic-and-spells-universe_1.10v"
+datapack disable "file/lthc-s-magic-and-spells-universe_1.10v.zip"
