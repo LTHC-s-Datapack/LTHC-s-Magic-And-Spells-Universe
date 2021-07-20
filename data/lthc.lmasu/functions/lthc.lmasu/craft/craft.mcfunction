@@ -28,3 +28,7 @@ execute if predicate lthc.lmasu:lthc.lmasu/craft/spells/two/powered_freezer run 
 execute if predicate lthc.lmasu:lthc.lmasu/craft/spells/two/jump_to_sky run function lthc.lmasu:lthc.lmasu/craft/spells/elements_two/jump_to_sky
 # Lightning Burning Spell
 execute if predicate lthc.lmasu:lthc.lmasu/craft/spells/two/lightning_burning run function lthc.lmasu:lthc.lmasu/craft/spells/elements_two/lightning_burning
+# Fired Growth Spell
+execute if predicate lthc.lmasu:lthc.lmasu/craft/spells/three/fired_growth run function lthc.lmasu:lthc.lmasu/craft/spells/elements_three/fired_growth
+# Travel Spell
+execute if predicate lthc.lmasu:lthc.lmasu/craft/spells/three/travel run function lthc.lmasu:lthc.lmasu/craft/spells/elements_three/travel
