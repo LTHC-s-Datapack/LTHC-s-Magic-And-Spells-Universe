@@ -16,6 +16,7 @@ scoreboard players add @a lmasu_snktime 0
 scoreboard players add @a lmasu_noarrs 0
 scoreboard players add @a lmasu_books 0
 scoreboard players enable @a lmasu_books
+scoreboard players enable @a lthc.lmasu.utils
 execute as @a unless score @s lmasu_mglvl matches -2147483648..2147483647 run scoreboard players set @s lmasu_mglvl 1
 scoreboard players add @a lmasu_mglvlxp 0
 scoreboard players add @a lmasu_traveller 0

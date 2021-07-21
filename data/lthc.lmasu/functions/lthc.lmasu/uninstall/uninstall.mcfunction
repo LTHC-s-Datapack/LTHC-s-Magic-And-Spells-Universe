@@ -58,6 +58,7 @@ scoreboard objectives remove lmasu_cllg_count
 scoreboard objectives remove lmasu_cllg_time
 scoreboard objectives remove lmasu.ls
 scoreboard objectives remove lmasu.data
+scoreboard objectives remove lthc.lmasu.utils
 
 #Schedule clear
 schedule clear lthc.lmasu:lthc.lmasu/rune/run
