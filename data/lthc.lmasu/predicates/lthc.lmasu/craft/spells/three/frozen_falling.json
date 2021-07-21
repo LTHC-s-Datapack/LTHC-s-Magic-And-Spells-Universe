@@ -6,7 +6,7 @@
           "blocks": [
             "minecraft:dropper"
           ],
-          "nbt": "{Items:[{Slot:0b,id:\"minecraft:stick\",Count:1b,tag:{comp_proj:true}},{Slot:1b,id:\"minecraft:stick\",Count:1b,tag:{comd_physic:true}},{Slot:2b,id:\"minecraft:stick\",Count:1b,tag:{comd_skyf:true}},{Slot:3b,id:\"minecraft:writable_book\",Count:1b}]}"
+          "nbt": "{Items:[{Slot:0b,id:\"minecraft:stick\",Count:1b,tag:{comp_proj:true}},{Slot:1b,id:\"minecraft:stick\",Count:1b,tag:{comd_physic:true}},{Slot:2b,id:\"minecraft:stick\",Count:1b,tag:{comd_frea:true}},{Slot:3b,id:\"minecraft:writable_book\",Count:1b}]}"
         }
       }
     },
