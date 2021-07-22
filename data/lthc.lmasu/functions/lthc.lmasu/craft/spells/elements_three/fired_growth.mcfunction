@@ -3,4 +3,4 @@
 # Desc: Craft the associated spell
 # -------------------------
 
-data modify block ~ ~-1 ~ Items set value [{id:"minecraft:stick",Slot:4b,Count:1b,tag:{fd_grw:true,display:{Name:'{"text":"[Spell] Fired Growth","color":"#FFFF00"}',Lore:['{"text":"Mana Cost: 1700 mana","color":"white"}','{"text":"Min Magic level required: 2","color":"red"}']},CustomModelData:1402}}]
+data modify block ~ ~ ~ Items set value [{id:"minecraft:stick",Slot:4b,Count:1b,tag:{fd_grw:true,display:{Name:'{"text":"[Spell] Fired Growth","color":"#FFFF00"}',Lore:['{"text":"Mana Cost: 1700 mana","color":"white"}','{"text":"Min Magic level required: 2","color":"red"}']},CustomModelData:1402}}]
