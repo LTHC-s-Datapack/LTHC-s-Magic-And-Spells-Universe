@@ -14,6 +14,7 @@
         "lthc.lmasu:lthc.lmasu/bosses/core_ovb",
         "lthc.lmasu:lthc.lmasu/main/call_menu",
         "lthc.lmasu:lthc.lmasu/bosses/netherian/action_ctrl",
-        "lthc.lmasu:lthc.lmasu/main/no_cooldown"
+        "lthc.lmasu:lthc.lmasu/main/no_cooldown",
+        "#lthc.lmasu:addon/core"
     ]
 }

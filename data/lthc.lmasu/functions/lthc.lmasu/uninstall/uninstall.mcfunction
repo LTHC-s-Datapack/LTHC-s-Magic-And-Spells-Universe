@@ -58,7 +58,6 @@ scoreboard objectives remove lmasu_cllg_count
 scoreboard objectives remove lmasu_cllg_time
 scoreboard objectives remove lmasu.ls
 scoreboard objectives remove lmasu.data
-scoreboard objectives remove lthc.lmasu.utils
 
 #Schedule clear
 schedule clear lthc.lmasu:lthc.lmasu/rune/run
@@ -75,6 +74,7 @@ schedule clear lthc.lmasu:lthc.lmasu/bosses/summon_netherian
 schedule clear lthc.lmasu:lthc.lmasu/mob_levels/manager
 schedule clear lthc.lmasu:lthc.lmasu/lmasu_clear_lag/lmasu_clear_lag
 schedule clear lthc.lmasu:lthc.lmasu/lmasu_clear_lag/scan
+schedule clear lthc.lmasu:lthc.lmasu/main/core
 
 #Kill Marker(s)
 kill @e[tag=lmasu_mklrl]
@@ -84,6 +84,11 @@ kill @e[tag=lmasu_cllg]
 execute as @e[tag=lmasu_frzfal] run data modify entity @s NoAI set value 0b
 execute as @e[tag=lmasu_powfrz] run data modify entity @s NoAI set value 0b
 
+#Addon
+function #lthc.lmasu:addon/uninstall
+
 #Disable datapack
-datapack disable "file/lthc-s-magic-and-spells-universe_1.10v"
-datapack disable "file/lthc-s-magic-and-spells-universe_1.10v.zip"
+datapack disable "file/lthc-s-magic-and-spells-universe_2.2v"
+datapack disable "file/lthc-s-magic-and-spells-universe"
+datapack disable "file/lthc-s-magic-and-spells-universe_2.2v.zip"
+datapack disable "file/lthc-s-magic-and-spells-universe.zip"

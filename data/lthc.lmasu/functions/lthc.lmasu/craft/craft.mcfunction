@@ -46,3 +46,6 @@ execute if predicate lthc.lmasu:lthc.lmasu/craft/spells/three/multi_lightning ru
 execute if predicate lthc.lmasu:lthc.lmasu/craft/spells/four/animal_killer run function lthc.lmasu:lthc.lmasu/craft/spells/elements_four/animal_killer
 # Monster Killer Spell
 execute if predicate lthc.lmasu:lthc.lmasu/craft/spells/four/monster_killer run function lthc.lmasu:lthc.lmasu/craft/spells/elements_four/monster_killer
+
+#Addon
+function #lthc.lmasu:addon/craft

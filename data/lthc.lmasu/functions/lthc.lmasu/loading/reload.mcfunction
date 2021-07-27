@@ -5,9 +5,9 @@
 
 # Add basic scoreboards
 scoreboard objectives add lmasu.data dummy
-# Initializes the datapack at the first startup or new version (version format: xx.xx.xx (current 1.10 so 011000 (01.10.00)))
+# Initializes the datapack at the first startup or new version (version format: xx.xx.xx (current 2.2 so 020200 (02.02.00)))
 execute unless score $lthc.first_run lmasu.data matches 1 run function lthc.lmasu:lthc.lmasu/loading/first_run/main
-execute if score $lthc.first_run lmasu.data matches 1 unless score $lthc.version lmasu.data matches 011000 run function lthc.lmasu:lthc.lmasu/loading/first_run/update
+execute if score $lthc.first_run lmasu.data matches 1 unless score $lthc.version lmasu.data matches 020200 run function lthc.lmasu:lthc.lmasu/loading/first_run/update
 
 # Saves that the datapack was started
 scoreboard players set .lthc lmasu.ls 1
