@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:writable_book"
+        },
+        "title": "LMASU Discovery",
+        "description": "LTHC's Magic And Spells Universe (LMASU)"
+    },
+    "parent": "lthc.global:big/lmasu/lmasu",
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    }
+}

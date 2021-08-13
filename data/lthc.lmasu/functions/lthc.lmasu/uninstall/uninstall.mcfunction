@@ -88,7 +88,7 @@ execute as @e[tag=lmasu_powfrz] run data modify entity @s NoAI set value 0b
 function #lthc.lmasu:addon/uninstall
 
 #Disable datapack
-datapack disable "file/lthc-s-magic-and-spells-universe_2.2v"
+datapack disable "file/lthc-s-magic-and-spells-universe_2.3v"
 datapack disable "file/lthc-s-magic-and-spells-universe"
-datapack disable "file/lthc-s-magic-and-spells-universe_2.2v.zip"
+datapack disable "file/lthc-s-magic-and-spells-universe_2.3v.zip"
 datapack disable "file/lthc-s-magic-and-spells-universe.zip"
