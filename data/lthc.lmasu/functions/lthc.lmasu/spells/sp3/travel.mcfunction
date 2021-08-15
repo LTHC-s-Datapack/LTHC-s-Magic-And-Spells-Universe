@@ -6,7 +6,7 @@
 scoreboard players remove @s lmasu_mana 3000
 scoreboard players set @s lmasu_clds 25
 scoreboard players set @s lmasu_cldtfs 20
-execute if score @s lmasu_mglvl matches ..9 run scoreboard players add @s lmasu_mglvlxp 1
+execute if score @s lmasu_mglvl matches ..9 run scoreboard players add @s lmasu_mglvlxp 7
 scoreboard players add @s lmasuc_travel 1
 execute unless score @s lmasu_manalvl matches 4.. run scoreboard players add @s lmasu_manalvlxp 40
 execute if score @s lmasu_traveller matches ..99 run scoreboard players add @s lmasu_traveller 1

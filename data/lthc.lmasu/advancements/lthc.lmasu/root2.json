@@ -21,9 +21,9 @@
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": true,
-        "frame": "task",
-        "background": "minecraft:textures/block/stone.png"
+        "frame": "task"
     },
+    "parent": "lthc.lmasu:lthc.lmasu/root",
     "criteria": {
         "a":{
             "trigger": "minecraft:inventory_changed",
