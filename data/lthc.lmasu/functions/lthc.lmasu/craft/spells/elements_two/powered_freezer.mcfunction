@@ -3,5 +3,5 @@
 # Desc: Craft the associated spell
 # -------------------------
 
-data modify block ~ ~ ~ Items set value [{id:"minecraft:stick",Slot:4b,Count:1b,tag:{pow_frz:true,display:{Name:'{"text":"[Spell] Powered Freezer","color":"#FFFF00"}',Lore:['{"text":"Mana Cost: 1120 mana","color":"white"}','{"text":"Min Magic level required: 3","color":"red"}']},CustomModelData:1306}}]
+data modify block ~ ~ ~ Items set value [{id:"minecraft:stick",Slot:4b,Count:1b,tag:{pow_frz:true,display:{Name:'{"translate":"[Spell] Powered Freezer","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 1120 mana","color":"white"}','{"translate":"Min Magic level required: 3","color":"red"}']},CustomModelData:1306}}]
 playsound block.enchantment_table.use master @a[distance=0..8] ~ ~ ~ 1.0 1.0 1.0

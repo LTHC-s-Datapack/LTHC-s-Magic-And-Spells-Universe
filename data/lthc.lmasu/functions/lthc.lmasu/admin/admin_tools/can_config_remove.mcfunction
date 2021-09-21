@@ -4,4 +4,4 @@
 # -------------------------
 
 tag @s remove lmasu_admin_config
-tellraw @s [{"text":"Now you cannot config some properties of LTHC's MAgic And Spells Universe","color": "#FFCC33"}]
+tellraw @s [{"translate":"Now you cannot config some properties of LTHC's Magic And Spells Universe","color": "#FFCC33"}]
