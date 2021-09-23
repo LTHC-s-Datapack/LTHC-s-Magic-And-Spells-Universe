@@ -1,0 +1,1 @@
+give @s stick{frz_fal:true,display:{Name:'{"translate":"[Spell] Frozen Falling","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 1800 mana","color":"white"}','{"translate":"Min Magic level required: 2","color":"red"}']},CustomModelData:1403} 1

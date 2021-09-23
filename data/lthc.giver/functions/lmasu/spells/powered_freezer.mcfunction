@@ -1,0 +1,1 @@
+give @s stick{pow_frz:true,display:{Name:'{"translate":"[Spell] Powered Freezer","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 1120 mana","color":"white"}','{"translate":"Min Magic level required: 3","color":"red"}']},CustomModelData:1306} 1

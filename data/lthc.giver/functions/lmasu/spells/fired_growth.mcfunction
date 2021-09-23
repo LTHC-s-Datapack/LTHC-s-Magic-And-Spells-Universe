@@ -1,0 +1,1 @@
+give @s stick{fd_grw:true,display:{Name:'{"translate":"[Spell] Fired Growth","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 1700 mana","color":"white"}','{"translate":"Min Magic level required: 2","color":"red"}']},CustomModelData:1402} 1

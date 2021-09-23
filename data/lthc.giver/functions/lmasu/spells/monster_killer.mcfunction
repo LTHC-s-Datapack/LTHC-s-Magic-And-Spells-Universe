@@ -1,0 +1,1 @@
+give @s stick{mo_ki:true,display:{Name:'{"translate":"[Spell] Monster Killer","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 18 000 mana","color":"white"}','{"translate":"Min Magic level required: 6","color":"red"}','{"translate":"Required mana level: 4"}']},CustomModelData:1502} 1

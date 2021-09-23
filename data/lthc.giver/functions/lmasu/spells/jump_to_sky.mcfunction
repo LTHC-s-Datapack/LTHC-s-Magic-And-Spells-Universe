@@ -1,0 +1,1 @@
+give @s stick{jmp_sky:true,display:{Name:'{"translate":"[Spell] Jump To Sky","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 1000 mana","color":"white"}','{"translate":"Min Magic level required: 2","color":"red"}']},CustomModelData:1304} 1

@@ -1,0 +1,1 @@
+give @s stick{no_arrow:true,display:{Name:'{"translate":"[Spell] No Arrow","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 4200 mana","color":"white"}','{"translate":"Min Magic level required: 3","color":"red"}']},CustomModelData:1404} 1

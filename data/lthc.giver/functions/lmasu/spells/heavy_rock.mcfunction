@@ -1,0 +1,1 @@
+give @s stick{hea_rck:true,display:{Name:'{"translate":"[Spell] Heavy Rock","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 2050 mana","color":"white"}','{"translate":"Min Magic level required: 4","color":"red"}']},CustomModelData:1305} 1

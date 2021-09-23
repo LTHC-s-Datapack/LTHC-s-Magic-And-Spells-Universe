@@ -1,0 +1,1 @@
+give @s book{kmtlm:true,display:{Name:'{"translate":"[Book] kaometicolinuriam","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 20 000 mana","color":"white"}','{"translate":"Min Magic level required: 7","color":"red"}','{"translate":"Required mana level: 4"}']},CustomModelData:2101} 1

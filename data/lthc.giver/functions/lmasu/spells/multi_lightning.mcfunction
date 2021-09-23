@@ -1,0 +1,1 @@
+give @s stick{mlt_lgt:true,display:{Name:'{"translate":"[Spell] Multi Lightning","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 4500 mana","color":"white"}','{"translate":"Min Magic level required: 4","color":"red"}']},CustomModelData:1405} 1

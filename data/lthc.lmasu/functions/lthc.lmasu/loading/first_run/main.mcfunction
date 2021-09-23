@@ -6,8 +6,8 @@
 #Create scoreboard in scoreboarder
 function lthc.lmasu:lthc.lmasu/init_lthc/scoreboarder
 
-# Set version variable in format xx.xx.xx (current 2.3 so 020300 (02.03.00))
-scoreboard players set $lthc.version lmasu.data 020300
+# Set version variable in format xx.xx.xx (current 2.4 so 020400 (02.04.00))
+scoreboard players set $lthc.version lmasu.data 020400
 
 # Summon marker entity at the worldspawn
 summon minecraft:marker ~ ~ ~ {UUID: [I; 1711620732, -230536421, -1552235838, 1782417117],Tags:["lmasu_mklrl"]}

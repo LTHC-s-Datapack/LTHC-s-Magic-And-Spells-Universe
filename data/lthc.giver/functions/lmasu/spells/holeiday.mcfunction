@@ -1,0 +1,1 @@
+give @s stick{he_id:true,display:{Name:'{"translate":"[Spell] Hol(e-i)day","color":"#FFFF00"}',Lore:['{"translate":"Mana Cost: 4030 mana","color":"white"}','{"translate":"Min Magic level required: 3","color":"red"}']},CustomModelData:1406} 1

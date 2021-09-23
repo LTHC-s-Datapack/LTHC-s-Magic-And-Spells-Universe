@@ -1,0 +1,1 @@
+give @s stick{comp_proj:true,display:{Name:'{"translate":"[Spell Component : Base] Projectile","color":"#FF0000"}',Lore:['{"translate":"One target action in an area","color":"white"}']},CustomModelData:1201} 1

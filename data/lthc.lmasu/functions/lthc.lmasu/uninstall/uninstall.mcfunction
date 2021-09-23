@@ -87,8 +87,11 @@ execute as @e[tag=lmasu_powfrz] run data modify entity @s NoAI set value 0b
 #Addon
 function #lthc.lmasu:addon/uninstall
 
+#Message
+tellraw @a [{"translate":"LTHC's Magic And Spells Universe was succesfully uninstalled","bold":true,"underlined":true,"color":"#FFFF00"}]
+
 #Disable datapack
-datapack disable "file/lthc-s-magic-and-spells-universe_2.3v"
+datapack disable "file/lthc-s-magic-and-spells-universe_2.4v"
 datapack disable "file/lthc-s-magic-and-spells-universe"
-datapack disable "file/lthc-s-magic-and-spells-universe_2.3v.zip"
+datapack disable "file/lthc-s-magic-and-spells-universe_2.4v.zip"
 datapack disable "file/lthc-s-magic-and-spells-universe.zip"

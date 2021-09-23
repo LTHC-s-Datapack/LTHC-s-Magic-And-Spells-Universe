@@ -1,0 +1,1 @@
+give @s fishing_rod{display:{Name:'{"translate":"Inondator","color":"#0044FF","bold":true}',Lore:['{"translate":"Water Power","color":"white","italic":false}']},RepairCost:10000,Unbreakable:1b,lmasu_inond:true} 1
