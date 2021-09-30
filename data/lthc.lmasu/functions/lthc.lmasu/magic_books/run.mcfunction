@@ -3,7 +3,7 @@
 # Desc: Control the associated magic book
 # -------------------------
 
-execute as @a[scores={lmasu_mglvl=7..,lmasu_clds=..0,lmasu_mana=20000..,lmasu_snktime=40..},nbt={SelectedItem:{id:"minecraft:book",tag:{kmtlm:true}}}] run function lthc.lmasu:lthc.lmasu/magic_books/kaometicolinuriam
-execute as @a[scores={lmasu_clds=..0,lmasu_snktime=40..},nbt={SelectedItem:{id:"minecraft:book",tag:{unman:true}}}] run function lthc.lmasu:lthc.lmasu/magic_books/unman
-execute as @a[scores={lmasu_clds=..0,lmasu_snktime=40..},nbt={SelectedItem:{id:"minecraft:book",tag:{skgft:true}}}] run function lthc.lmasu:lthc.lmasu/magic_books/skgft
-execute as @a[scores={lmasu_cldes=..0,lmasu_snktime=40..},nbt={SelectedItem:{id:"minecraft:book",tag:{enwrp:true}}}] run function lthc.lmasu:lthc.lmasu/magic_books/enwrp
+execute as @a[predicate=lthc.lmasu:lthc.lmasu/magic_books/kaometicolinuriam] run function lthc.lmasu:lthc.lmasu/magic_books/kaometicolinuriam
+execute as @a[predicate=lthc.lmasu:lthc.lmasu/magic_books/unman] run function lthc.lmasu:lthc.lmasu/magic_books/unman
+execute as @a[predicate=lthc.lmasu:lthc.lmasu/magic_books/skgft] run function lthc.lmasu:lthc.lmasu/magic_books/skgft
+execute as @a[predicate=lthc.lmasu:lthc.lmasu/magic_books/enwrp] run function lthc.lmasu:lthc.lmasu/magic_books/enwrp

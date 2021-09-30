@@ -1,0 +1,18 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "chest": {
+                "items": [
+                    "leather_chestplate",
+                    "iron_chestplate",
+                    "golden_chestplate",
+                    "diamond_chestplate",
+                    "netherite_chestplate"
+                ],
+                "nbt": "{elem_runed:true}"
+            }
+        }
+    }
+}
