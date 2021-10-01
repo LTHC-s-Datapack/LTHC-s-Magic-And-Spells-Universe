@@ -29,8 +29,9 @@ Required: <a href="https://github.com/LTHC-s-Datapack/LTHC.Utils/releases/tag/1.
 | ✅   | Multiplayer     |
 | ✅   | Vanilla         |
 | ✅   | Optifine        |
+| ✅   | Iris-Sodium     |
 | ✅   | Fabric          |
-| ❔   | Forge           |
+| ⚠   | Forge           |
 | ❓   | Realms          |
 | ❌   | Bukkit          |
 | ❌   | Spigot          |
