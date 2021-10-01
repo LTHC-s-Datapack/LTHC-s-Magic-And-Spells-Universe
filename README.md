@@ -1,11 +1,9 @@
 # LTHC's Magic And Spells Universe
 
 <div align="center">
-</div>
-
+ 
 ![latest release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=green&label=Latest%20Release) ![release/pre release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?include_prereleases&color=darkred&label=Current%20Release%20or%20pre%20release) ![downloads](https://img.shields.io/github/downloads/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=gold)
  
-<div align="left">
 </div>
 
 This Datapack is created for have fun with magic and a new dimension with new biomes in minecraft
