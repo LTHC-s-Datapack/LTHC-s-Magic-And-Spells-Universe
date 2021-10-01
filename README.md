@@ -31,3 +31,9 @@ Required: <a href="https://github.com/LTHC-s-Datapack/LTHC.Utils/releases/tag/1.
 | ❌   | Spigot          |
 | ❌   | Paper           |
 | ❌   | Waterfall       |
+
+# Contributors
+<a href="https://github.com/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe" />
+</a>
+  
