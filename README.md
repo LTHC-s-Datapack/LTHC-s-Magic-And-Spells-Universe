@@ -2,13 +2,7 @@
 
 <div align="center">
 
-![latest release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=green) 
-
-![release/pre release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?include_prereleases&color=darkred) 
-
-![downloads](https://img.shields.io/github/downloads/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/total?color=cyan) 
-
-![stars](https://img.shields.io/github/stars/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=gold)
+![latest release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=green) ![downloads](https://img.shields.io/github/downloads/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=gold)
 
 </div>
 <div align="left">
