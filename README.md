@@ -1,7 +1,7 @@
 # LTHC's Magic And Spells Universe
 
 <div align="center">
- 
+
 ![latest release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=green&label=Latest%20Release) ![release/pre release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?include_prereleases&color=darkred&label=Current%20Release%20or%20Pre%20Release) ![downloads](https://img.shields.io/github/downloads/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=gold)
  
 </div>
@@ -42,4 +42,3 @@ Required: <a href="https://github.com/LTHC-s-Datapack/LTHC.Utils/releases/tag/1.
 <a href="https://github.com/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe" />
 </a>
-  
