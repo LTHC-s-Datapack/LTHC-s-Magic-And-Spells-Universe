@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=green&label=Latest%20Release"><a href="https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=green&label=Latest%20Release"/></img> 
-<img src="https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?include_prereleases&color=darkred&label=Current%20Release%20or%20Pre%20Release"><a href="https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?include_prereleases&color=darkred&label=Current%20Release%20or%20Pre%20Release"></img>
+<img src="https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?include_prereleases&color=darkred&label=Current%20Release%20or%20Pre%20Release"><a href="https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?include_prereleases&color=darkred&label=Current%20Release%20or%20Pre%20Release"/></img>
 <img src="https://img.shields.io/github/downloads/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/total?color=cyan"><a href="https://img.shields.io/github/downloads/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/total?color=cyan"/></img>
 <img src="https://img.shields.io/github/stars/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=gold"><a href="https://img.shields.io/github/stars/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=gold"/></img>
  
