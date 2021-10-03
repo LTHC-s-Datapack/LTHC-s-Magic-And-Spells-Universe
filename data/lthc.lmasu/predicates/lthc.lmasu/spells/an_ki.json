@@ -12,6 +12,9 @@
         "lmasu_mana": {
           "min": 18000
         },
+        "lmasu_manalvl": {
+          "min": 4
+        },
         "lmasu_mglvl": {
           "min": 6
         }

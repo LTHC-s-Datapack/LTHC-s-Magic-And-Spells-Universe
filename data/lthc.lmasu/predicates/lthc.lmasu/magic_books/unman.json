@@ -8,15 +8,6 @@
         },
         "lmasu_snktime": {
           "min": 40
-        },
-        "lmasu_mana": {
-          "min": 18000
-        },
-        "lmasu_manalvl": {
-          "min": 4
-        },
-        "lmasu_mglvl": {
-          "min": 6
         }
       }
     },
@@ -27,12 +18,11 @@
         "equipment": {
           "mainhand": {
             "items": [
-              "minecraft:stick"
+              "minecraft:book"
             ],
-            "nbt": "{mo_ki:true}"
+            "nbt": "{unman:true}"
           }
         }
       }
     }
   ]
-  
