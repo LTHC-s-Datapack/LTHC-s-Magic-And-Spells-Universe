@@ -8,7 +8,7 @@
 
 This Datapack is created for have fun with magic and a new dimension with new biomes in minecraft
 
-Required: <a href="https://github.com/LTHC-s-Datapack/LTHC.Utils/releases/tag/1.4">LTHC.Utils<a/>
+Required: <a href="https://github.com/LTHC-s-Datapack/LTHC.Utils/releases/tag/1.5">LTHC.Utils<a/>
 
 ## 📜 Features:
 - Spells
