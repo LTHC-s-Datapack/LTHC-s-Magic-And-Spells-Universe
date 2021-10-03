@@ -91,7 +91,7 @@ function #lthc.lmasu:addon/uninstall
 tellraw @a [{"translate":"LTHC's Magic And Spells Universe was succesfully uninstalled","bold":true,"underlined":true,"color":"#FFFF00"}]
 
 #Disable datapack
-datapack disable "file/lthc-s-magic-and-spells-universe_2.4v"
+datapack disable "file/lthc-s-magic-and-spells-universe_2.5v"
 datapack disable "file/lthc-s-magic-and-spells-universe"
-datapack disable "file/lthc-s-magic-and-spells-universe_2.4v.zip"
+datapack disable "file/lthc-s-magic-and-spells-universe_2.5v.zip"
 datapack disable "file/lthc-s-magic-and-spells-universe.zip"
