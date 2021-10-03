@@ -1,5 +1,10 @@
 # LTHC's Magic And Spells Universe
-![latest release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?style=flat-square) ![downloads](https://img.shields.io/github/downloads/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/total?style=flat-square)
+
+<div align="center">
+ 
+![latest release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=green&label=Latest%20Release) ![release/pre release](https://img.shields.io/github/v/release/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?include_prereleases&color=darkred&label=Current%20Release%20or%20Pre%20Release) ![downloads](https://img.shields.io/github/downloads/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe?color=gold)
+ 
+</div>
 
 This Datapack is created for have fun with magic and a new dimension with new biomes in minecraft
 
@@ -24,10 +29,17 @@ Required: <a href="https://github.com/LTHC-s-Datapack/LTHC.Utils/releases/tag/1.
 | ✅   | Multiplayer     |
 | ✅   | Vanilla         |
 | ✅   | Optifine        |
+| ✅   | Iris-Sodium     |
 | ✅   | Fabric          |
-| ❔   | Forge           |
+| ⚠   | Forge           |
 | ❓   | Realms          |
 | ❌   | Bukkit          |
 | ❌   | Spigot          |
 | ❌   | Paper           |
 | ❌   | Waterfall       |
+
+# Contributors
+<a href="https://github.com/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe" />
+</a>
+  
