@@ -11,7 +11,7 @@
       "announce_to_chat": false,
       "hidden": false
     },
-    "parent": "lthc.lmasu:lthc.lmasu/dimensional/discover_the_dimension",
+    "parent": "lthc.lmasu:lthc.lmasu/root",
     "criteria": {
       "unlock": {
         "trigger": "minecraft:used_totem",
