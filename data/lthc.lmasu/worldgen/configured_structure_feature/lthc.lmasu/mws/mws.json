@@ -1,7 +1,0 @@
-{
-    "config": {
-      "start_pool": "lthc.lmasu:lthc.lmasu/mws/mws",
-      "size": 6
-    },
-    "type": "minecraft:village"
-}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glow_item_frame",
+            "nbt": "{CustomModelData:27101}"
+        },
+        "title": "Initiated Crafter",
+        "description": "Create a LTHC Table"
+    },
+    "parent": "lthc.global:big/lthc.utils/rooted/owned_discovery",
+    "criteria": {
+        "unlock": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "glow_item_frame"
+                        ],
+                        "nbt": "{CustomModelData:27101}"
+                    }
+                ]
+            }
+        }
+    }
+}

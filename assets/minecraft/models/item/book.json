@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/book"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":2101}, "model": "item/lmasubook/kmtlm"},
+		{"predicate": {"custom_model_data":2102}, "model": "item/lmasubook/unman"},
+		{"predicate": {"custom_model_data":2103}, "model": "item/lmasubook/skgft"},
+		{"predicate": {"custom_model_data":2104}, "model": "item/lmasubook/enwrp"},
+		{"predicate": {"custom_model_data":27103}, "model": "lthc_utils:lthc_guide_book"}
+	]
+}

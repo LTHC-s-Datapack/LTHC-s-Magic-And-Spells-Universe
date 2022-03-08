@@ -1,0 +1,35 @@
+[
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "lmasu_clds": {
+          "max": 0
+        },
+        "lmasu_snktime": {
+          "min": 40
+        },
+        "lmasu_mana": {
+          "min": 1555
+        },
+        "lmasu_mglvl": {
+          "min": 1
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "items": [
+              "minecraft:stick"
+            ],
+            "nbt": "{healthy_guard:true}"
+          }
+        }
+      }
+    }
+  ]
+  

@@ -1,0 +1,8 @@
+{
+    "values": [
+        "lthc.utils:table_creating/create",
+        "lthc.utils:custom_blocks/main",
+        "lthc.utils:air_fisher/run",
+        "lthc.utils:guide/use"
+    ]
+}

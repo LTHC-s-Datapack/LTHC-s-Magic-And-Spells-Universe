@@ -1,0 +1,19 @@
+[
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "block": {
+          "blocks": [
+            "minecraft:dropper"
+          ],
+          "nbt": "{Items:[{Slot:0b,id:\"minecraft:stick\",Count:1b,tag:{lmasu_addon_giga:true}},{Slot:1b,id:\"minecraft:nether_bricks\",Count:8b},{Slot:2b,id:\"minecraft:obsidian\",Count:1b}]}"
+        }
+      }
+    },
+    {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:3b}]}"}}}},
+    {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:4b}]}"}}}},
+    {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:5b}]}"}}}},
+    {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:6b}]}"}}}},
+    {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:7b}]}"}}}},
+    {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:8b}]}"}}}}
+  ]

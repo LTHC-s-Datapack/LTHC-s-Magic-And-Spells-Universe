@@ -1,0 +1,34 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:book"
+        },
+        "title": "Healthy Guard Spell",
+        "description": {
+            "text": "In LTHC Table \n ",
+            "extra": [
+                {
+                    "text": "A B 0 \n "
+                },
+                {
+                    "text": "0 0 0 \n "
+                },
+                {
+                    "text": "0 0 0 \n "
+                },
+                {
+                    "text": "A: 1 Giga Component, B: 16 Melon slices, 0: empty slot"
+                }
+            ]
+        },
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "lthc.global:big/lmasu/giga/infos/info_main",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

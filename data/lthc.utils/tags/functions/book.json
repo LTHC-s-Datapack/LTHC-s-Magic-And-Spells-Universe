@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "lthc.utils:guide/temp",
+        "lthc.utils:guide/message/main_message"
+    ]
+}

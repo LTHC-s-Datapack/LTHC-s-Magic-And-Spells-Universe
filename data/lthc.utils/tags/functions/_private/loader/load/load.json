@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "#lthc.utils:_private/loader/load/init",
+        {"id": "#lthc.utils:_private/loader/load/pre_load", "required": false},
+        {"id": "#lthc.utils:_private/loader/load", "required": false},
+        {"id": "#lthc.utils:_private/loader/load/post_load", "required": false}
+    ]
+}

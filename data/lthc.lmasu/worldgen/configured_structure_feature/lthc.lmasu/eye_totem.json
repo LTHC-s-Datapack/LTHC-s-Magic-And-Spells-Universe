@@ -1,7 +1,0 @@
-{
-    "config": {
-      "start_pool": "lthc.lmasu:lthc.lmasu/eye_totem",
-      "size": 6
-    },
-    "type": "minecraft:village"
-}

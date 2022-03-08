@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:repeating_command_block"
+        },
+        "title": "LTHC Utils",
+        "description": {
+            "text": "Hey!! \n ",
+            "extra": [
+                {
+                    "text": "Utils 1.5 Version \n "
+                }
+            ]
+        },
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "lthc.global:big/big",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

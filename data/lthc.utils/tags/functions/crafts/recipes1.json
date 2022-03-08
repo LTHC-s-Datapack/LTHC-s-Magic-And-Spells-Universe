@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
+        "lthc.utils:custom_craft/channel1/craft",
         "lthc.lmasu:lthc.lmasu/craft/craft2"
     ]
 }

@@ -1,0 +1,1 @@
+give @s stick{display:{Name:'{"text":"[Giga Spell] Healthy Guard","color":"#FF2222","bold":false,"italic":false,"underlined":false}',Lore:['{"text":"Mana Cost: 1555 mana","color":"white"}']},CustomModelData:2202,healthy_guard:true} 1

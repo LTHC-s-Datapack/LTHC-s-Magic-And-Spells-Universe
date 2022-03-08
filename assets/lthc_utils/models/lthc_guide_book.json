@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+	"textures": {
+		"layer0": "lthc_utils:lthc_guide_book"
+	}
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "block": {
+        "blocks": [
+          "minecraft:dropper"
+        ],
+        "nbt": "{Items:[{Slot:1b,id:\"minecraft:leather\",Count:1b},{Slot:3b,id:\"minecraft:leather\",Count:1b},{Slot:4b,id:\"minecraft:book\",Count:1b},{Slot:5b,id:\"minecraft:leather\",Count:1b},{Slot:7b,id:\"minecraft:leather\",Count:1b}]}"
+      }
+    }
+  },
+  {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:0b}]}"}}}},
+  {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:2b}]}"}}}},
+  {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:6b}]}"}}}},
+  {"condition": "minecraft:inverted", "term": {"condition": "minecraft:location_check", "predicate": {"block": {"blocks": ["minecraft:dropper"], "nbt": "{Items:[{Slot:8b}]}"}}}}
+]

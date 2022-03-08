@@ -1,0 +1,6 @@
+{
+    "replace": false,
+    "values": [
+        "lthc.utils:load"
+    ]
+}

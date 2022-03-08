@@ -1,0 +1,12 @@
+{
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "block": {
+        "blocks": [
+          "minecraft:dropper"
+        ],
+        "nbt": "{Items:[{Slot:0b,id:\"minecraft:dropper\",Count:1b},{Slot:1b,id:\"minecraft:glow_item_frame\",Count:1b,tag:{CustomModelData:27101,EntityTag:{Tags:[\"lthc.utils.crafter\"],Item:{id:\"minecraft:glow_item_frame\",Count:1b,tag:{CustomModelData:27101}}}}},{Slot:2b,id:\"minecraft:dragon_head\",Count:1b},{Slot:3b,id:\"minecraft:shulker_shell\",Count:2b},{Slot:4b,id:\"minecraft:shulker_shell\",Count:2b},{Slot:5b,id:\"minecraft:shulker_shell\",Count:2b},{Slot:6b,id:\"minecraft:shulker_shell\",Count:2b},{Slot:7b,id:\"minecraft:shulker_shell\",Count:2b},{Slot:8b,id:\"minecraft:shulker_shell\",Count:2b}]}"
+      }
+    }
+  }
+  

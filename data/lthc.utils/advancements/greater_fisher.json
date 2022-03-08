@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glow_item_frame",
+            "nbt": "{CustomModelData:27102}"
+        },
+        "title": "Greater Fisher",
+        "description": "Create an Air Fisher"
+    },
+    "parent": "lthc.utils:initiated_crafter",
+    "criteria": {
+        "unlock": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "glow_item_frame"
+                        ],
+                        "nbt": "{CustomModelData:27102}"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1201}, "model": "item/lmasucomp/proj_comp"},
+		{"predicate": {"custom_model_data":1202}, "model": "item/lmasucomp/area_comp"},
+		{"predicate": {"custom_model_data":1204}, "model": "item/lmasucomd/physic_comd"},
+		{"predicate": {"custom_model_data":1205}, "model": "item/lmasucomd/skyf_comd"},
+		{"predicate": {"custom_model_data":1206}, "model": "item/lmasucomd/frea_comd"},
+		{"predicate": {"custom_model_data":1301}, "model": "item/spells/sp2/dam_arrow"},
+		{"predicate": {"custom_model_data":1302}, "model": "item/spells/sp2/arrow_wave"},
+		{"predicate": {"custom_model_data":1303}, "model": "item/spells/sp2/li_bu"},
+		{"predicate": {"custom_model_data":1304}, "model": "item/spells/sp2/jmp_sky"},
+		{"predicate": {"custom_model_data":1305}, "model": "item/spells/sp2/hea_rck"},
+		{"predicate": {"custom_model_data":1306}, "model": "item/spells/sp2/pow_frz"},
+		{"predicate": {"custom_model_data":1401}, "model": "item/spells/sp3/travel"},
+		{"predicate": {"custom_model_data":1402}, "model": "item/spells/sp3/fd_grw"},
+		{"predicate": {"custom_model_data":1403}, "model": "item/spells/sp3/frz_fal"},
+		{"predicate": {"custom_model_data":1404}, "model": "item/spells/sp3/no_arrow"},
+		{"predicate": {"custom_model_data":1405}, "model": "item/spells/sp3/mlt_lgt"},
+		{"predicate": {"custom_model_data":1406}, "model": "item/spells/sp3/he_id"},
+		{"predicate": {"custom_model_data":1501}, "model": "item/spells/sp4/an_ki"},
+		{"predicate": {"custom_model_data":1502}, "model": "item/spells/sp4/mo_ki"},
+		
+		{"predicate": {"custom_model_data":2201}, "model": "item/giga/comp"},
+		{"predicate": {"custom_model_data":2202}, "model": "item/giga/sp1"},
+		{"predicate": {"custom_model_data":2203}, "model": "item/giga/sp2"}
+	]
+}

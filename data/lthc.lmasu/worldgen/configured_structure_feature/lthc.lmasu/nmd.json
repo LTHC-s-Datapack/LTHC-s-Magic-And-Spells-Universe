@@ -1,7 +1,0 @@
-{
-    "config": {
-      "start_pool": "lthc.lmasu:lthc.lmasu/nmd",
-      "size": 6
-    },
-    "type": "minecraft:bastion_remnant"
-}

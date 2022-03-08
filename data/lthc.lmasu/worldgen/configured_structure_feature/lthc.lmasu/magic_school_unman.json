@@ -1,7 +1,0 @@
-{
-  "config": {
-    "start_pool": "lthc.lmasu:lthc.lmasu/magic_school_unman",
-    "size": 6
-  },
-  "type": "minecraft:village"
-}

@@ -1,0 +1,572 @@
+{
+    "type": "generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 60,
+            "name": "minecraft:oak_leaves",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 60,
+            "name": "minecraft:dark_oak_leaves",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 60,
+            "name": "minecraft:birch_leaves",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 60,
+            "name": "minecraft:spruce_leaves",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 60,
+            "name": "minecraft:acacia_leaves",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 60,
+            "name": "minecraft:jungle_leaves",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 50,
+            "name": "minecraft:wheat_seeds",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 50,
+            "name": "minecraft:beetroot_seeds",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 50,
+            "name": "minecraft:melon_seeds",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 50,
+            "name": "minecraft:pumpkin_seeds",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 45,
+            "name": "minecraft:oak_planks",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 45,
+            "name": "minecraft:dark_oak_planks",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 45,
+            "name": "minecraft:birch_planks",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 45,
+            "name": "minecraft:spruce_planks",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 45,
+            "name": "minecraft:acacia_planks",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 45,
+            "name": "minecraft:jungle_planks",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 45,
+            "name": "minecraft:crimson_planks",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 45,
+            "name": "minecraft:warped_planks",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 40,
+            "name": "minecraft:oak_log",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 40,
+            "name": "minecraft:dark_oak_log",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 40,
+            "name": "minecraft:birch_log",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 40,
+            "name": "minecraft:spruce_log",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 40,
+            "name": "minecraft:acacia_log",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 40,
+            "name": "minecraft:jungle_log",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 40,
+            "name": "minecraft:crimson_stem",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 40,
+            "name": "minecraft:warped_stem",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 32,
+            "name": "minecraft:dirt",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 32,
+            "name": "minecraft:oak_sapling",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 32,
+            "name": "minecraft:dark_oak_sapling",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 32,
+            "name": "minecraft:birch_sapling",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 32,
+            "name": "minecraft:spruce_sapling",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 32,
+            "name": "minecraft:acacia_sapling",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 32,
+            "name": "minecraft:jungle_sapling",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 27,
+            "name": "minecraft:coarse_dirt",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 25,
+            "name": "minecraft:sand",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 23,
+            "name": "minecraft:clay",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 22,
+            "name": "minecraft:gravel",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 21,
+            "name": "minecraft:cobblestone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 19,
+            "name": "minecraft:mossy_cobblestone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 18,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 17,
+            "name": "minecraft:iron_nugget",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 16,
+            "name": "minecraft:raw_copper",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 15,
+            "name": "minecraft:gold_nugget",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 13,
+            "name": "minecraft:diamond",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 12,
+            "name": "minecraft:obsidian",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 11,
+            "name": "minecraft:netherite_scrap",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 9,
+            "name": "minecraft:chorus_flower",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 9,
+            "name": "minecraft:totem_of_undying",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 6,
+            "name": "minecraft:elytra",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 6,
+            "name": "minecraft:dragon_head",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:dragon_egg",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
